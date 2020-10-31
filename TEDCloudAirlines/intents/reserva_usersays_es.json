@@ -1,0 +1,71 @@
+[
+  {
+    "id": "f0174d85-6917-4c7a-8739-9b5e531e2a23",
+    "data": [
+      {
+        "text": "reservar vuelos",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b5710cfb-6265-442b-8ad5-80f67d4ae680",
+    "data": [
+      {
+        "text": "quiero reservar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a6b1c5e6-1be2-495c-acac-723ecede2962",
+    "data": [
+      {
+        "text": "reservar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5d062bd5-faed-4b1d-bfbd-dcbbd611153a",
+    "data": [
+      {
+        "text": "reservar vuelo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ca01ad21-a47a-48b2-9b1f-c2e0464ff432",
+    "data": [
+      {
+        "text": "quiero reservar ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " vuelo a BOG",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

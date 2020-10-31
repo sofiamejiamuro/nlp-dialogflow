@@ -1,0 +1,195 @@
+{
+  "id": "b01b016c-b171-4285-a86d-fa5277b4d5fb",
+  "parentId": "3f7ee109-063c-4582-83ea-e47d05943a05",
+  "rootParentId": "3f7ee109-063c-4582-83ea-e47d05943a05",
+  "name": "reserva.oneway",
+  "auto": true,
+  "contexts": [
+    "reserva-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "reserva.reserva-custom-3",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "ec083418-97be-470b-a066-abf88df5a473",
+          "required": true,
+          "dataType": "@tipovuelo",
+          "name": "tipovuelo",
+          "value": "$tipovuelo",
+          "prompts": [
+            {
+              "lang": "es",
+              "value": "Indique el tipo de vuelo:"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "4322b43f-7fbd-443c-bb39-930395472d70",
+          "required": true,
+          "dataType": "@sys.any",
+          "name": "name",
+          "value": "$name",
+          "prompts": [
+            {
+              "lang": "es",
+              "value": "Genial cuál es su nombre:"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "b1de8ba2-4b93-45e5-b7fe-5d11b1a3c9c2",
+          "required": true,
+          "dataType": "@sys.email",
+          "name": "email",
+          "value": "$email",
+          "prompts": [
+            {
+              "lang": "es",
+              "value": "Cuál es su correo?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "c8f9e2bc-37bd-4c63-a4dc-cfa3ee24bdd3",
+          "required": true,
+          "dataType": "@sys.number",
+          "name": "idpassport",
+          "value": "$idpassport",
+          "prompts": [
+            {
+              "lang": "es",
+              "value": "Cual es su número de pasaporte:"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "bef1295a-b95a-40ba-982e-61103ec5dba1",
+          "required": true,
+          "dataType": "@sys.geo-country",
+          "name": "paispassport",
+          "value": "$paispassport",
+          "prompts": [
+            {
+              "lang": "es",
+              "value": "Cuál es el país de origen de su pasaporte:"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "fd1a1a51-f8e5-4648-8b77-26a667417cbb",
+          "required": true,
+          "dataType": "@iata",
+          "name": "origin",
+          "value": "$origin",
+          "prompts": [
+            {
+              "lang": "es",
+              "value": "Cuál es el código internacional de su aeropuerto o nombre de la ciudad de origen de su vuelo:"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "956519b2-f18b-4592-82cb-bafae86e861e",
+          "required": true,
+          "dataType": "@sys.date",
+          "name": "fecha1",
+          "value": "$fecha1",
+          "prompts": [
+            {
+              "lang": "es",
+              "value": "Fecha del vuelo de $origin"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "efaac232-5199-4701-a730-d92629fbf174",
+          "required": true,
+          "dataType": "@iata",
+          "name": "destination",
+          "value": "$destination",
+          "prompts": [
+            {
+              "lang": "es",
+              "value": "Cuál es el código internacional de su aeropuerto o ciudad de destino:"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "bcce1392-a474-4154-b89c-e36ccdcf217f",
+          "required": true,
+          "dataType": "@confirmacion",
+          "name": "confirmacion",
+          "value": "$confirmacion",
+          "prompts": [
+            {
+              "lang": "es",
+              "value": "Genial $name tu vuelo con origen de $origin a $destination para el $fecha1 se encuentra listo para ser reservado, ahora debes indicar *confirmar* para continuar o cancelar para salir de esta reserva,"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": "Excelente $name el ticket de su vuelo $tipovuelo con origen de $origin y destino a $destination ha sido confirmado con éxito."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

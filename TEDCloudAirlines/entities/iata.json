@@ -1,0 +1,9 @@
+{
+  "id": "d526b8f7-7dba-45ad-adc5-7c5c8d107988",
+  "name": "iata",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

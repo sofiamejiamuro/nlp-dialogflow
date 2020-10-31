@@ -1,0 +1,6054 @@
+[
+  {
+    "value": "AAC",
+    "synonyms": [
+      "AAC",
+      "Al",
+      "Arish, Egypt "
+    ]
+  },
+  {
+    "value": "AAE",
+    "synonyms": [
+      "AAE",
+      "Algeria ",
+      "Annaba,"
+    ]
+  },
+  {
+    "value": "AAG",
+    "synonyms": [
+      "AAG",
+      "Arapoti,",
+      "Brazil "
+    ]
+  },
+  {
+    "value": "AAN",
+    "synonyms": [
+      "AAN",
+      "Ain, United Arab Emirates ",
+      "Al"
+    ]
+  },
+  {
+    "value": "AAQ",
+    "synonyms": [
+      "AAQ",
+      "Anapa,",
+      "Russia "
+    ]
+  },
+  {
+    "value": "AAR",
+    "synonyms": [
+      "AAR",
+      "Aarhus,",
+      "Denmark - Tirstrup "
+    ]
+  },
+  {
+    "value": "AAT",
+    "synonyms": [
+      "AAT",
+      "Altay,",
+      "China "
+    ]
+  },
+  {
+    "value": "ABA",
+    "synonyms": [
+      "ABA",
+      "Abakan,",
+      "Russia "
+    ]
+  },
+  {
+    "value": "ABD",
+    "synonyms": [
+      "ABD",
+      "Abadan,",
+      "Iran "
+    ]
+  },
+  {
+    "value": "ABE",
+    "synonyms": [
+      "ABE",
+      "Bethlehem,",
+      "PA "
+    ]
+  },
+  {
+    "value": "ABE",
+    "synonyms": [
+      "ABE",
+      "Allentown,",
+      "PA "
+    ]
+  },
+  {
+    "value": "ABI",
+    "synonyms": [
+      "ABI",
+      "Abilene,",
+      "TX "
+    ]
+  },
+  {
+    "value": "ABJ",
+    "synonyms": [
+      "ABJ",
+      "Abidjan,",
+      "Cote d\u0027Ivoire "
+    ]
+  },
+  {
+    "value": "ABL",
+    "synonyms": [
+      "ABL",
+      "AK ",
+      "Ambler,"
+    ]
+  },
+  {
+    "value": "ABM",
+    "synonyms": [
+      "ABM",
+      "Australia ",
+      "Bamaga,"
+    ]
+  },
+  {
+    "value": "ABQ",
+    "synonyms": [
+      "ABQ",
+      "Albuquerque,",
+      "NM "
+    ]
+  },
+  {
+    "value": "ABR",
+    "synonyms": [
+      "ABR",
+      "Aberdeen,",
+      "SD "
+    ]
+  },
+  {
+    "value": "ABS",
+    "synonyms": [
+      "ABS",
+      "Abu",
+      "Simbel, Egypt "
+    ]
+  },
+  {
+    "value": "ABT",
+    "synonyms": [
+      "ABT",
+      "Al-Baha,",
+      "Saudi Arabia "
+    ]
+  },
+  {
+    "value": "ABV",
+    "synonyms": [
+      "ABV",
+      "Abuja,",
+      "Nigeria "
+    ]
+  },
+  {
+    "value": "ABX",
+    "synonyms": [
+      "ABX",
+      "Albury,",
+      "Australia "
+    ]
+  },
+  {
+    "value": "ABZ",
+    "synonyms": [
+      "ABZ",
+      "Aberdeen,",
+      "United Kingdom "
+    ]
+  },
+  {
+    "value": "ACA",
+    "synonyms": [
+      "ACA",
+      "Acapulco,"
+    ]
+  },
+  {
+    "value": "ACH",
+    "synonyms": [
+      "ACH",
+      "Altenrhein,",
+      "Switzerland "
+    ]
+  },
+  {
+    "value": "ACI",
+    "synonyms": [
+      "ACI",
+      "Alderney,",
+      "United Kingdom "
+    ]
+  },
+  {
+    "value": "ACV",
+    "synonyms": [
+      "ACV",
+      "Arcata,",
+      "CA "
+    ]
+  },
+  {
+    "value": "ADA",
+    "synonyms": [
+      "ADA",
+      "Adana,",
+      "Turkey "
+    ]
+  },
+  {
+    "value": "ADD",
+    "synonyms": [
+      "ADD",
+      "Ababa, Ethopia ",
+      "Addis"
+    ]
+  },
+  {
+    "value": "ADE",
+    "synonyms": [
+      "ADE",
+      "Aden,",
+      "Yemen "
+    ]
+  },
+  {
+    "value": "ADJ",
+    "synonyms": [
+      "ADJ",
+      "Amman,",
+      "Jordan - Civil/Marka Airport "
+    ]
+  },
+  {
+    "value": "ADK",
+    "synonyms": [
+      "ADK",
+      "Adak",
+      "Island, AK "
+    ]
+  },
+  {
+    "value": "ADL",
+    "synonyms": [
+      "ADL",
+      "Adelaide,",
+      "Australia "
+    ]
+  },
+  {
+    "value": "AEO",
+    "synonyms": [
+      "AEO",
+      "Aioun",
+      "El Atrouss, Mauritania "
+    ]
+  },
+  {
+    "value": "AEP",
+    "synonyms": [
+      "AEP",
+      "Aires, Argentina - Jorge Newbery ",
+      "Buenos"
+    ]
+  },
+  {
+    "value": "AER",
+    "synonyms": [
+      "AER",
+      "Adler/Sochi,",
+      "Russia "
+    ]
+  },
+  {
+    "value": "AES",
+    "synonyms": [
+      "AES",
+      "Aalesund,",
+      "Norway "
+    ]
+  },
+  {
+    "value": "AET",
+    "synonyms": [
+      "AET",
+      "AK ",
+      "Allakaket,"
+    ]
+  },
+  {
+    "value": "AEX",
+    "synonyms": [
+      "AEX",
+      "Alexandria,",
+      "LA "
+    ]
+  },
+  {
+    "value": "AEY",
+    "synonyms": [
+      "AEY",
+      "Akureyri,",
+      "Iceland "
+    ]
+  },
+  {
+    "value": "AFT",
+    "synonyms": [
+      "AFT",
+      "Afutara,",
+      "Soloman Islands "
+    ]
+  },
+  {
+    "value": "AGA",
+    "synonyms": [
+      "AGA",
+      "Agadir,",
+      "Morocco "
+    ]
+  },
+  {
+    "value": "AGB",
+    "synonyms": [
+      "AGB",
+      "Augsburg/Munich,",
+      "Germany "
+    ]
+  },
+  {
+    "value": "AGD",
+    "synonyms": [
+      "AGD",
+      "Anggi,",
+      "Indonesia "
+    ]
+  },
+  {
+    "value": "AGF",
+    "synonyms": [
+      "AGF",
+      "Agen,",
+      "France "
+    ]
+  },
+  {
+    "value": "AGH",
+    "synonyms": [
+      "AGH",
+      "Argelholm/Helsingborg,",
+      "Sweden "
+    ]
+  },
+  {
+    "value": "AGJ",
+    "synonyms": [
+      "AGJ",
+      "Aguni,",
+      "Japan "
+    ]
+  },
+  {
+    "value": "AGN",
+    "synonyms": [
+      "AGN",
+      "AK ",
+      "Angoon,"
+    ]
+  },
+  {
+    "value": "AGR",
+    "synonyms": [
+      "AGR",
+      "Agra,",
+      "India "
+    ]
+  },
+  {
+    "value": "AGS",
+    "synonyms": [
+      "AGS",
+      "Augusta,",
+      "GA "
+    ]
+  },
+  {
+    "value": "AGT",
+    "synonyms": [
+      "AGT",
+      "Ciudad",
+      "del Este, Paraguay "
+    ]
+  },
+  {
+    "value": "AGU",
+    "synonyms": [
+      "AGU",
+      "Aguascalientes,"
+    ]
+  },
+  {
+    "value": "AHB",
+    "synonyms": [
+      "AHB",
+      "Abha,",
+      "Saudi Arabia "
+    ]
+  },
+  {
+    "value": "AHN",
+    "synonyms": [
+      "AHN",
+      "Athens,",
+      "GA "
+    ]
+  },
+  {
+    "value": "AHO",
+    "synonyms": [
+      "AHO",
+      "Alghero,",
+      "Italy "
+    ]
+  },
+  {
+    "value": "AHU",
+    "synonyms": [
+      "AHU",
+      "Al",
+      "Hoceima, Morocco "
+    ]
+  },
+  {
+    "value": "AIA",
+    "synonyms": [
+      "AIA",
+      "Alliance,",
+      "NE "
+    ]
+  },
+  {
+    "value": "AIC",
+    "synonyms": [
+      "AIC",
+      "Airok,",
+      "Marshall Islands "
+    ]
+  },
+  {
+    "value": "AIM",
+    "synonyms": [
+      "AIM",
+      "Ailuk",
+      "Island, Marshall Islands "
+    ]
+  },
+  {
+    "value": "AIT",
+    "synonyms": [
+      "AIT",
+      "Aitutaki,",
+      "Cook Islands "
+    ]
+  },
+  {
+    "value": "AIU",
+    "synonyms": [
+      "AIU",
+      "Atiu",
+      "Island, Cook Islands "
+    ]
+  },
+  {
+    "value": "AIY",
+    "synonyms": [
+      "AIY",
+      "Atlantic",
+      "City, NJ "
+    ]
+  },
+  {
+    "value": "AJA",
+    "synonyms": [
+      "AJA",
+      "Ajaccio,",
+      "France "
+    ]
+  },
+  {
+    "value": "AJI",
+    "synonyms": [
+      "AJI",
+      "Agri,",
+      "Turkey "
+    ]
+  },
+  {
+    "value": "AJL",
+    "synonyms": [
+      "AJL",
+      "Aizawl,",
+      "India "
+    ]
+  },
+  {
+    "value": "AJR",
+    "synonyms": [
+      "AJR",
+      "Arvidsjaur,",
+      "Sweden "
+    ]
+  },
+  {
+    "value": "AJU",
+    "synonyms": [
+      "AJU",
+      "Araca,",
+      "Brazil "
+    ]
+  },
+  {
+    "value": "AKA",
+    "synonyms": [
+      "AKA",
+      "Ankang,",
+      "China "
+    ]
+  },
+  {
+    "value": "AKB",
+    "synonyms": [
+      "AK ",
+      "AKB",
+      "Atka,"
+    ]
+  },
+  {
+    "value": "AKI",
+    "synonyms": [
+      "AK ",
+      "AKI",
+      "Akiak,"
+    ]
+  },
+  {
+    "value": "AKJ",
+    "synonyms": [
+      "AKJ",
+      "Asahikawa,",
+      "Japan "
+    ]
+  },
+  {
+    "value": "AKL",
+    "synonyms": [
+      "AKL",
+      "Auckland,",
+      "New Zealand "
+    ]
+  },
+  {
+    "value": "AKP",
+    "synonyms": [
+      "AK ",
+      "AKP",
+      "Anaktueuk,"
+    ]
+  },
+  {
+    "value": "AKS",
+    "synonyms": [
+      "AKS",
+      "Auki,",
+      "Solomon Islands "
+    ]
+  },
+  {
+    "value": "AKU",
+    "synonyms": [
+      "AKU",
+      "Aksu,",
+      "China "
+    ]
+  },
+  {
+    "value": "AKV",
+    "synonyms": [
+      "AKV",
+      "Akulivik,",
+      "QC "
+    ]
+  },
+  {
+    "value": "AKX",
+    "synonyms": [
+      "AKX",
+      "Aktyubinsk,",
+      "Kazakhstan "
+    ]
+  },
+  {
+    "value": "AKX",
+    "synonyms": [
+      "AKX",
+      "Almaty,",
+      "Kazakhstan "
+    ]
+  },
+  {
+    "value": "ALB",
+    "synonyms": [
+      "ALB",
+      "Albany,",
+      "NY "
+    ]
+  },
+  {
+    "value": "ALC",
+    "synonyms": [
+      "ALC",
+      "Alicante,",
+      "Spain "
+    ]
+  },
+  {
+    "value": "ALF",
+    "synonyms": [
+      "ALF",
+      "Alta,",
+      "Norway "
+    ]
+  },
+  {
+    "value": "ALG",
+    "synonyms": [
+      "ALG",
+      "Algeria ",
+      "Algiers,"
+    ]
+  },
+  {
+    "value": "ALJ",
+    "synonyms": [
+      "ALJ",
+      "Alexander",
+      "Bay, South Africa "
+    ]
+  },
+  {
+    "value": "ALM",
+    "synonyms": [
+      "ALM",
+      "Alamogordo,",
+      "NM "
+    ]
+  },
+  {
+    "value": "ALP",
+    "synonyms": [
+      "ALP",
+      "Aleppo,",
+      "Syrian Arab Republic "
+    ]
+  },
+  {
+    "value": "ALS",
+    "synonyms": [
+      "ALS",
+      "Alamosa,",
+      "CO "
+    ]
+  },
+  {
+    "value": "ALY",
+    "synonyms": [
+      "ALY",
+      "Alexandria,",
+      "Egypt "
+    ]
+  },
+  {
+    "value": "AMA",
+    "synonyms": [
+      "AMA",
+      "Amarillo,",
+      "TX "
+    ]
+  },
+  {
+    "value": "AMD",
+    "synonyms": [
+      "AMD",
+      "Ahmedabad,",
+      "India "
+    ]
+  },
+  {
+    "value": "AMH",
+    "synonyms": [
+      "AMH",
+      "Arba",
+      "Mintch, Ethiopia "
+    ]
+  },
+  {
+    "value": "AMM",
+    "synonyms": [
+      "AMM",
+      "Amman,",
+      "Jordan - Queen Alia International "
+    ]
+  },
+  {
+    "value": "AMQ",
+    "synonyms": [
+      "AMQ",
+      "Ambon,",
+      "Indonesia "
+    ]
+  },
+  {
+    "value": "AMS",
+    "synonyms": [
+      "AMS",
+      "Amsterdam,",
+      "Netherlands "
+    ]
+  },
+  {
+    "value": "AMV",
+    "synonyms": [
+      "AMV",
+      "Amderma,",
+      "Russia "
+    ]
+  },
+  {
+    "value": "AMY",
+    "synonyms": [
+      "AMY",
+      "Ambatomainty,",
+      "Madagascar "
+    ]
+  },
+  {
+    "value": "ANC",
+    "synonyms": [
+      "AK ",
+      "ANC",
+      "Anchorage,"
+    ]
+  },
+  {
+    "value": "ANE",
+    "synonyms": [
+      "ANE",
+      "Angers,",
+      "France - Marce "
+    ]
+  },
+  {
+    "value": "ANF",
+    "synonyms": [
+      "ANF",
+      "Antofagasta,",
+      "Chile "
+    ]
+  },
+  {
+    "value": "ANG",
+    "synonyms": [
+      "ANG",
+      "Angouleme,",
+      "France "
+    ]
+  },
+  {
+    "value": "ANI",
+    "synonyms": [
+      "AK ",
+      "ANI",
+      "Aniak,"
+    ]
+  },
+  {
+    "value": "ANK",
+    "synonyms": [
+      "ANK",
+      "Ankara,",
+      "Turkey - Etimesqut "
+    ]
+  },
+  {
+    "value": "ANM",
+    "synonyms": [
+      "ANM",
+      "Antalaha,",
+      "Madagascar "
+    ]
+  },
+  {
+    "value": "ANR",
+    "synonyms": [
+      "ANR",
+      "Antwerp,",
+      "Belgium - Deurne Airport "
+    ]
+  },
+  {
+    "value": "ANU",
+    "synonyms": [
+      "ANU",
+      "Antigua and Barbuda ",
+      "Antigua,"
+    ]
+  },
+  {
+    "value": "ANV",
+    "synonyms": [
+      "AK ",
+      "ANV",
+      "Anvik,"
+    ]
+  },
+  {
+    "value": "ANX",
+    "synonyms": [
+      "ANX",
+      "Andenes,",
+      "Norway "
+    ]
+  },
+  {
+    "value": "AOI",
+    "synonyms": [
+      "AOI",
+      "Ancona,",
+      "Italy "
+    ]
+  },
+  {
+    "value": "AOJ",
+    "synonyms": [
+      "AOJ",
+      "Aomori,",
+      "Japan "
+    ]
+  },
+  {
+    "value": "AOO",
+    "synonyms": [
+      "AOO",
+      "Altoona,",
+      "PA "
+    ]
+  },
+  {
+    "value": "AOR",
+    "synonyms": [
+      "AOR",
+      "Alorsetar,",
+      "Malaysia "
+    ]
+  },
+  {
+    "value": "AOT",
+    "synonyms": [
+      "AOT",
+      "Aosta,",
+      "Italy "
+    ]
+  },
+  {
+    "value": "APN",
+    "synonyms": [
+      "APN",
+      "Alpena,",
+      "MI "
+    ]
+  },
+  {
+    "value": "APO",
+    "synonyms": [
+      "APO",
+      "Apartado,",
+      "Colombia "
+    ]
+  },
+  {
+    "value": "APW",
+    "synonyms": [
+      "APW",
+      "Apia,",
+      "Western Samoa "
+    ]
+  },
+  {
+    "value": "AQG",
+    "synonyms": [
+      "AQG",
+      "Anging,",
+      "China "
+    ]
+  },
+  {
+    "value": "AQJ",
+    "synonyms": [
+      "AQJ",
+      "Aqaba,",
+      "Jordan "
+    ]
+  },
+  {
+    "value": "AQP",
+    "synonyms": [
+      "AQP",
+      "Arequipa,",
+      "Peru "
+    ]
+  },
+  {
+    "value": "ARC",
+    "synonyms": [
+      "ARC",
+      "Arctic",
+      "Village, AK "
+    ]
+  },
+  {
+    "value": "ARD",
+    "synonyms": [
+      "ARD",
+      "Alor",
+      "Island, Indonesia "
+    ]
+  },
+  {
+    "value": "ARH",
+    "synonyms": [
+      "ARH",
+      "Arkangelsk,",
+      "Russia "
+    ]
+  },
+  {
+    "value": "ARI",
+    "synonyms": [
+      "ARI",
+      "Arica,",
+      "Chile "
+    ]
+  },
+  {
+    "value": "ARK",
+    "synonyms": [
+      "ARK",
+      "Arusha,",
+      "Tanzania "
+    ]
+  },
+  {
+    "value": "ARM",
+    "synonyms": [
+      "ARM",
+      "Armidale,",
+      "Australia "
+    ]
+  },
+  {
+    "value": "ARP",
+    "synonyms": [
+      "ARP",
+      "Aragip,",
+      "Papua New Guinea "
+    ]
+  },
+  {
+    "value": "ARR",
+    "synonyms": [
+      "ARR",
+      "Alto",
+      "Rio Senguerr, Argentina "
+    ]
+  },
+  {
+    "value": "ARU",
+    "synonyms": [
+      "ARU",
+      "Aracatuba,",
+      "Brazil "
+    ]
+  },
+  {
+    "value": "ARW",
+    "synonyms": [
+      "ARW",
+      "Arad,",
+      "Romania "
+    ]
+  },
+  {
+    "value": "ASB",
+    "synonyms": [
+      "ASB",
+      "Ashgabat,",
+      "Turkmenistan "
+    ]
+  },
+  {
+    "value": "ASE",
+    "synonyms": [
+      "ASE",
+      "Aspen,",
+      "CO "
+    ]
+  },
+  {
+    "value": "ASF",
+    "synonyms": [
+      "ASF",
+      "Astrakhan,",
+      "Russia "
+    ]
+  },
+  {
+    "value": "ASJ",
+    "synonyms": [
+      "ASJ",
+      "Amami",
+      "O Shima, Japan "
+    ]
+  },
+  {
+    "value": "ASM",
+    "synonyms": [
+      "ASM",
+      "Asmara,",
+      "Eritrea "
+    ]
+  },
+  {
+    "value": "ASO",
+    "synonyms": [
+      "ASO",
+      "Asosa,",
+      "Ethopia "
+    ]
+  },
+  {
+    "value": "ASP",
+    "synonyms": [
+      "ASP",
+      "Alice",
+      "Springs, Australia "
+    ]
+  },
+  {
+    "value": "ASU",
+    "synonyms": [
+      "ASU",
+      "Asuncion,",
+      "Paraguay "
+    ]
+  },
+  {
+    "value": "ASV",
+    "synonyms": [
+      "ASV",
+      "Amboseli,",
+      "Kenya "
+    ]
+  },
+  {
+    "value": "ASW",
+    "synonyms": [
+      "ASW",
+      "Aswan,",
+      "Egypt "
+    ]
+  },
+  {
+    "value": "ATC",
+    "synonyms": [
+      "ATC",
+      "Arthur\u0027s",
+      "Town, Bahamas "
+    ]
+  },
+  {
+    "value": "ATD",
+    "synonyms": [
+      "ATD",
+      "Atoifi,",
+      "Solomon Islands "
+    ]
+  },
+  {
+    "value": "ATH",
+    "synonyms": [
+      "ATH",
+      "Athens,",
+      "Greece "
+    ]
+  },
+  {
+    "value": "ATK",
+    "synonyms": [
+      "AK ",
+      "ATK",
+      "Atqasuk,"
+    ]
+  },
+  {
+    "value": "ATL",
+    "synonyms": [
+      "ATL",
+      "Atlanta,",
+      "GA "
+    ]
+  },
+  {
+    "value": "ATM",
+    "synonyms": [
+      "ATM",
+      "Altamira,",
+      "Brazil "
+    ]
+  },
+  {
+    "value": "ATQ",
+    "synonyms": [
+      "ATQ",
+      "Amritsar,",
+      "India "
+    ]
+  },
+  {
+    "value": "ATW",
+    "synonyms": [
+      "ATW",
+      "Appleton,",
+      "WI "
+    ]
+  },
+  {
+    "value": "ATZ",
+    "synonyms": [
+      "ATZ",
+      "Assiut,",
+      "Egypt "
+    ]
+  },
+  {
+    "value": "AUA",
+    "synonyms": [
+      "AUA",
+      "Aruba ",
+      "Aruba,"
+    ]
+  },
+  {
+    "value": "AUC",
+    "synonyms": [
+      "AUC",
+      "Arauca,",
+      "Colombia "
+    ]
+  },
+  {
+    "value": "AUG",
+    "synonyms": [
+      "AUG",
+      "Augusta,",
+      "ME "
+    ]
+  },
+  {
+    "value": "AUH",
+    "synonyms": [
+      "AUH",
+      "Abu",
+      "Dhabi, United Arab Emirates "
+    ]
+  },
+  {
+    "value": "AUK",
+    "synonyms": [
+      "AK ",
+      "AUK",
+      "Alakanuk,"
+    ]
+  },
+  {
+    "value": "AUL",
+    "synonyms": [
+      "AUL",
+      "Aur",
+      "Island, Marshall Islands "
+    ]
+  },
+  {
+    "value": "AUP",
+    "synonyms": [
+      "AUP",
+      "Agaun,",
+      "Papua New Guinea "
+    ]
+  },
+  {
+    "value": "AUQ",
+    "synonyms": [
+      "AUQ",
+      "Atuona,",
+      "French Polynesia "
+    ]
+  },
+  {
+    "value": "AUR",
+    "synonyms": [
+      "AUR",
+      "Aurillac,",
+      "France "
+    ]
+  },
+  {
+    "value": "AUS",
+    "synonyms": [
+      "AUS",
+      "Austin,",
+      "TX "
+    ]
+  },
+  {
+    "value": "AUU",
+    "synonyms": [
+      "AUU",
+      "Aurukun,",
+      "Australia "
+    ]
+  },
+  {
+    "value": "AUX",
+    "synonyms": [
+      "AUX",
+      "Araguaina,",
+      "Brazil "
+    ]
+  },
+  {
+    "value": "AUY",
+    "synonyms": [
+      "AUY",
+      "Aneityum,",
+      "Vanuatu "
+    ]
+  },
+  {
+    "value": "AVL",
+    "synonyms": [
+      "AVL",
+      "Asheville,",
+      "NC "
+    ]
+  },
+  {
+    "value": "AVN",
+    "synonyms": [
+      "AVN",
+      "Avignon,",
+      "France "
+    ]
+  },
+  {
+    "value": "AWD",
+    "synonyms": [
+      "AWD",
+      "Aniwa,",
+      "Vanuatu "
+    ]
+  },
+  {
+    "value": "AWZ",
+    "synonyms": [
+      "AWZ",
+      "Ahwaz,",
+      "Iran "
+    ]
+  },
+  {
+    "value": "AXA",
+    "synonyms": [
+      "AXA",
+      "Anguilla ",
+      "Anguilla,"
+    ]
+  },
+  {
+    "value": "AXD",
+    "synonyms": [
+      "AXD",
+      "Alexandroupolis,",
+      "Greece "
+    ]
+  },
+  {
+    "value": "AXM",
+    "synonyms": [
+      "AXM",
+      "Armenia,",
+      "Colombia "
+    ]
+  },
+  {
+    "value": "AXT",
+    "synonyms": [
+      "AXT",
+      "Akita,",
+      "Japan "
+    ]
+  },
+  {
+    "value": "AYQ",
+    "synonyms": [
+      "AYQ",
+      "Ayers",
+      "Rock, Australia "
+    ]
+  },
+  {
+    "value": "AYT",
+    "synonyms": [
+      "AYT",
+      "Antalya,",
+      "Turkey "
+    ]
+  },
+  {
+    "value": "AYW",
+    "synonyms": [
+      "AYW",
+      "Ayawaki,",
+      "Indonesia "
+    ]
+  },
+  {
+    "value": "AZB",
+    "synonyms": [
+      "AZB",
+      "Amazon",
+      "Bay, Papua New Guinea "
+    ]
+  },
+  {
+    "value": "AZR",
+    "synonyms": [
+      "AZR",
+      "Adrar,",
+      "Algeria "
+    ]
+  },
+  {
+    "value": "BAH",
+    "synonyms": [
+      "BAH",
+      "Bahrain ",
+      "Bahrain,"
+    ]
+  },
+  {
+    "value": "BAL",
+    "synonyms": [
+      "BAL",
+      "Batman,",
+      "Turkey "
+    ]
+  },
+  {
+    "value": "BAQ",
+    "synonyms": [
+      "BAQ",
+      "Barranquilla,",
+      "Colombia "
+    ]
+  },
+  {
+    "value": "BAS",
+    "synonyms": [
+      "BAS",
+      "Balalae,",
+      "Solomon Islands "
+    ]
+  },
+  {
+    "value": "BAU",
+    "synonyms": [
+      "BAU",
+      "Bauru,",
+      "Brazil "
+    ]
+  },
+  {
+    "value": "BAV",
+    "synonyms": [
+      "BAV",
+      "Baotou,",
+      "China "
+    ]
+  },
+  {
+    "value": "BAX",
+    "synonyms": [
+      "BAX",
+      "Barnaul,",
+      "Russia "
+    ]
+  },
+  {
+    "value": "BAY",
+    "synonyms": [
+      "BAY",
+      "Baia",
+      "Mare, Romania "
+    ]
+  },
+  {
+    "value": "BBA",
+    "synonyms": [
+      "BBA",
+      "Balmaceda,",
+      "Chile "
+    ]
+  },
+  {
+    "value": "BBI",
+    "synonyms": [
+      "BBI",
+      "Bhubaneswar,",
+      "India "
+    ]
+  },
+  {
+    "value": "BBM",
+    "synonyms": [
+      "BBM",
+      "Battambang,",
+      "Cambodia "
+    ]
+  },
+  {
+    "value": "BBN",
+    "synonyms": [
+      "BBN",
+      "Bario,",
+      "Malaysia "
+    ]
+  },
+  {
+    "value": "BBO",
+    "synonyms": [
+      "BBO",
+      "Berbera,",
+      "Somalia "
+    ]
+  },
+  {
+    "value": "BBU",
+    "synonyms": [
+      "BBU",
+      "Bucharest,",
+      "Romania - Baneasa "
+    ]
+  },
+  {
+    "value": "BCD",
+    "synonyms": [
+      "BCD",
+      "Bacolod,",
+      "Philippines "
+    ]
+  },
+  {
+    "value": "BCI",
+    "synonyms": [
+      "Australia ",
+      "BCI",
+      "Barcaldine,"
+    ]
+  },
+  {
+    "value": "BCN",
+    "synonyms": [
+      "BCN",
+      "Barcelona,",
+      "Spain "
+    ]
+  },
+  {
+    "value": "BCQ",
+    "synonyms": [
+      "BCQ",
+      "Brack,",
+      "Libya "
+    ]
+  },
+  {
+    "value": "BDA",
+    "synonyms": [
+      "BDA",
+      "Bermuda ",
+      "Bermuda,"
+    ]
+  },
+  {
+    "value": "BDB",
+    "synonyms": [
+      "Australia ",
+      "BDB",
+      "Bundaberg,"
+    ]
+  },
+  {
+    "value": "BDD",
+    "synonyms": [
+      "BDD",
+      "Badu",
+      "Island, Australia "
+    ]
+  },
+  {
+    "value": "BDH",
+    "synonyms": [
+      "BDH",
+      "Bandar",
+      "Lengeh, Iran "
+    ]
+  },
+  {
+    "value": "BDJ",
+    "synonyms": [
+      "BDJ",
+      "Banjarmasin,",
+      "Indonesia "
+    ]
+  },
+  {
+    "value": "BDO",
+    "synonyms": [
+      "BDO",
+      "Bandung,",
+      "Indonesia "
+    ]
+  },
+  {
+    "value": "BDP",
+    "synonyms": [
+      "BDP",
+      "Bhadrapur,",
+      "Nepal "
+    ]
+  },
+  {
+    "value": "BDS",
+    "synonyms": [
+      "BDS",
+      "Brindisi,",
+      "Italy "
+    ]
+  },
+  {
+    "value": "BDU",
+    "synonyms": [
+      "BDU",
+      "Bardufoss,",
+      "Norway "
+    ]
+  },
+  {
+    "value": "BEB",
+    "synonyms": [
+      "BEB",
+      "Benbecula,",
+      "United Kingdom "
+    ]
+  },
+  {
+    "value": "BED",
+    "synonyms": [
+      "BED",
+      "Bedford,",
+      "MA "
+    ]
+  },
+  {
+    "value": "BEG",
+    "synonyms": [
+      "BEG",
+      "Belgrade,",
+      "Serbia and Montenegro - Beograd "
+    ]
+  },
+  {
+    "value": "BEH",
+    "synonyms": [
+      "BEH",
+      "Benton",
+      "Harbor, MI "
+    ]
+  },
+  {
+    "value": "BEI",
+    "synonyms": [
+      "BEI",
+      "Beica,",
+      "Ethiopia "
+    ]
+  },
+  {
+    "value": "BEJ",
+    "synonyms": [
+      "BEJ",
+      "Berau,",
+      "Indonesia "
+    ]
+  },
+  {
+    "value": "BEL",
+    "synonyms": [
+      "BEL",
+      "Belem,",
+      "Brazil "
+    ]
+  },
+  {
+    "value": "BEN",
+    "synonyms": [
+      "BEN",
+      "Benghazi,",
+      "Libya "
+    ]
+  },
+  {
+    "value": "BER",
+    "synonyms": [
+      "BER",
+      "Berlin,",
+      "Germany - All airports "
+    ]
+  },
+  {
+    "value": "BES",
+    "synonyms": [
+      "BES",
+      "Brest,",
+      "France "
+    ]
+  },
+  {
+    "value": "BET",
+    "synonyms": [
+      "AK ",
+      "BET",
+      "Bethel,"
+    ]
+  },
+  {
+    "value": "BEU",
+    "synonyms": [
+      "Australia ",
+      "BEU",
+      "Bedourie,"
+    ]
+  },
+  {
+    "value": "BEY",
+    "synonyms": [
+      "BEY",
+      "Beirut,",
+      "Lebanon "
+    ]
+  },
+  {
+    "value": "BFD",
+    "synonyms": [
+      "BFD",
+      "Bradford,",
+      "PA "
+    ]
+  },
+  {
+    "value": "BFL",
+    "synonyms": [
+      "BFL",
+      "Bakersfield,",
+      "CA "
+    ]
+  },
+  {
+    "value": "BFN",
+    "synonyms": [
+      "BFN",
+      "Bloemfontein,",
+      "South Africa "
+    ]
+  },
+  {
+    "value": "BFQ",
+    "synonyms": [
+      "BFQ",
+      "Bahia",
+      "Pinas, Panama "
+    ]
+  },
+  {
+    "value": "BFS",
+    "synonyms": [
+      "BFS",
+      "Belfast,",
+      "Northern Ireland, United Kingdom "
+    ]
+  },
+  {
+    "value": "BFV",
+    "synonyms": [
+      "BFV",
+      "Buri",
+      "Ram, Thailand "
+    ]
+  },
+  {
+    "value": "BGA",
+    "synonyms": [
+      "BGA",
+      "Bucaramanga,",
+      "Colombia "
+    ]
+  },
+  {
+    "value": "BGF",
+    "synonyms": [
+      "BGF",
+      "Banqui,",
+      "Central African Republic "
+    ]
+  },
+  {
+    "value": "BGI",
+    "synonyms": [
+      "BGI",
+      "Barbados ",
+      "Bridgetown,"
+    ]
+  },
+  {
+    "value": "BGM",
+    "synonyms": [
+      "BGM",
+      "Binghamton,",
+      "NY "
+    ]
+  },
+  {
+    "value": "BGO",
+    "synonyms": [
+      "BGO",
+      "Bergen,",
+      "Norway "
+    ]
+  },
+  {
+    "value": "BGR",
+    "synonyms": [
+      "BGR",
+      "Bangor,",
+      "ME "
+    ]
+  },
+  {
+    "value": "BHB",
+    "synonyms": [
+      "BHB",
+      "Bar",
+      "Harbour, ME "
+    ]
+  },
+  {
+    "value": "BHD",
+    "synonyms": [
+      "BHD",
+      "Belfast,",
+      "United Kingdom "
+    ]
+  },
+  {
+    "value": "BHE",
+    "synonyms": [
+      "BHE",
+      "Blenheim,",
+      "New Zealand "
+    ]
+  },
+  {
+    "value": "BHG",
+    "synonyms": [
+      "BHG",
+      "Brus",
+      "Laguna, Honduras "
+    ]
+  },
+  {
+    "value": "BHH",
+    "synonyms": [
+      "BHH",
+      "Bisha,",
+      "Saudi Arabia "
+    ]
+  },
+  {
+    "value": "BHI",
+    "synonyms": [
+      "BHI",
+      "Bahia",
+      "Blanca, Argentina "
+    ]
+  },
+  {
+    "value": "BHJ",
+    "synonyms": [
+      "BHJ",
+      "Bhuj,",
+      "India "
+    ]
+  },
+  {
+    "value": "BHM",
+    "synonyms": [
+      "AL ",
+      "BHM",
+      "Birmingham,"
+    ]
+  },
+  {
+    "value": "BHO",
+    "synonyms": [
+      "BHO",
+      "Bhopal,",
+      "India "
+    ]
+  },
+  {
+    "value": "BHQ",
+    "synonyms": [
+      "BHQ",
+      "Broken",
+      "Hill, Australia "
+    ]
+  },
+  {
+    "value": "BHR",
+    "synonyms": [
+      "BHR",
+      "Bharatpur,",
+      "Nepal "
+    ]
+  },
+  {
+    "value": "BHS",
+    "synonyms": [
+      "Australia ",
+      "BHS",
+      "Bathurst,"
+    ]
+  },
+  {
+    "value": "BHU",
+    "synonyms": [
+      "BHU",
+      "Bhavnagar,",
+      "India "
+    ]
+  },
+  {
+    "value": "BHX",
+    "synonyms": [
+      "BHX",
+      "Birmingham,",
+      "United Kingdom "
+    ]
+  },
+  {
+    "value": "BHY",
+    "synonyms": [
+      "BHY",
+      "Beihai,",
+      "China "
+    ]
+  },
+  {
+    "value": "BIA",
+    "synonyms": [
+      "BIA",
+      "Bastia,",
+      "France "
+    ]
+  },
+  {
+    "value": "BID",
+    "synonyms": [
+      "BID",
+      "Block",
+      "Island, RI "
+    ]
+  },
+  {
+    "value": "BII",
+    "synonyms": [
+      "Atoll, Marshall Islands ",
+      "BII",
+      "Bikini"
+    ]
+  },
+  {
+    "value": "BIK",
+    "synonyms": [
+      "BIK",
+      "Biak,",
+      "Indonesia "
+    ]
+  },
+  {
+    "value": "BIL",
+    "synonyms": [
+      "BIL",
+      "Billings,",
+      "MT "
+    ]
+  },
+  {
+    "value": "BIM",
+    "synonyms": [
+      "BIM",
+      "Bahamas ",
+      "Bimini,"
+    ]
+  },
+  {
+    "value": "BIO",
+    "synonyms": [
+      "BIO",
+      "Bilbao,",
+      "Spain "
+    ]
+  },
+  {
+    "value": "BIQ",
+    "synonyms": [
+      "BIQ",
+      "Biarritz,",
+      "France "
+    ]
+  },
+  {
+    "value": "BIR",
+    "synonyms": [
+      "BIR",
+      "Biratragar,",
+      "Nepal "
+    ]
+  },
+  {
+    "value": "BIS",
+    "synonyms": [
+      "BIS",
+      "Bismarck,",
+      "ND "
+    ]
+  },
+  {
+    "value": "BJA",
+    "synonyms": [
+      "Algeria ",
+      "BJA",
+      "Bejaia,"
+    ]
+  },
+  {
+    "value": "BJB",
+    "synonyms": [
+      "BJB",
+      "Bojnord,",
+      "Iran "
+    ]
+  },
+  {
+    "value": "BJF",
+    "synonyms": [
+      "BJF",
+      "Batsfijord,",
+      "Norway "
+    ]
+  },
+  {
+    "value": "BJI",
+    "synonyms": [
+      "BJI",
+      "Bemidji,",
+      "MN "
+    ]
+  },
+  {
+    "value": "BJL",
+    "synonyms": [
+      "BJL",
+      "Banjul,",
+      "Gambia "
+    ]
+  },
+  {
+    "value": "BJM",
+    "synonyms": [
+      "BJM",
+      "Bujumbura,",
+      "Burundi "
+    ]
+  },
+  {
+    "value": "BJV",
+    "synonyms": [
+      "BJV",
+      "Bodrum,",
+      "Turkey "
+    ]
+  },
+  {
+    "value": "BJZ",
+    "synonyms": [
+      "BJZ",
+      "Badajcz,",
+      "Spain "
+    ]
+  },
+  {
+    "value": "BKC",
+    "synonyms": [
+      "AK ",
+      "BKC",
+      "Buckland,"
+    ]
+  },
+  {
+    "value": "BKK",
+    "synonyms": [
+      "BKK",
+      "Bangkok,",
+      "Thailand "
+    ]
+  },
+  {
+    "value": "BKO",
+    "synonyms": [
+      "BKO",
+      "Bamako,",
+      "Mali "
+    ]
+  },
+  {
+    "value": "BKQ",
+    "synonyms": [
+      "Australia ",
+      "BKQ",
+      "Blackall,"
+    ]
+  },
+  {
+    "value": "BKS",
+    "synonyms": [
+      "BKS",
+      "Bengkulu,",
+      "Indonesia "
+    ]
+  },
+  {
+    "value": "BKW",
+    "synonyms": [
+      "BKW",
+      "Beckley,",
+      "WV "
+    ]
+  },
+  {
+    "value": "BKX",
+    "synonyms": [
+      "BKX",
+      "Brookings,",
+      "SD "
+    ]
+  },
+  {
+    "value": "BKZ",
+    "synonyms": [
+      "BKZ",
+      "Bukoba,",
+      "Malaysia "
+    ]
+  },
+  {
+    "value": "BLA",
+    "synonyms": [
+      "BLA",
+      "Barcelona,",
+      "Venezuela "
+    ]
+  },
+  {
+    "value": "BLE",
+    "synonyms": [
+      "BLE",
+      "Borlange,",
+      "Sweden "
+    ]
+  },
+  {
+    "value": "BLF",
+    "synonyms": [
+      "BLF",
+      "Bluefield,",
+      "WV "
+    ]
+  },
+  {
+    "value": "BLG",
+    "synonyms": [
+      "BLG",
+      "Belaga,",
+      "Mozambique "
+    ]
+  },
+  {
+    "value": "BLI",
+    "synonyms": [
+      "BLI",
+      "Bellingham,",
+      "WA "
+    ]
+  },
+  {
+    "value": "BLJ",
+    "synonyms": [
+      "Algeria ",
+      "BLJ",
+      "Batna,"
+    ]
+  },
+  {
+    "value": "BLK",
+    "synonyms": [
+      "BLK",
+      "Blackpool,",
+      "United Kingdom "
+    ]
+  },
+  {
+    "value": "BLL",
+    "synonyms": [
+      "BLL",
+      "Billund,",
+      "Denmark "
+    ]
+  },
+  {
+    "value": "BLR",
+    "synonyms": [
+      "BLR",
+      "Bangalore,",
+      "India "
+    ]
+  },
+  {
+    "value": "BLT",
+    "synonyms": [
+      "Australia ",
+      "BLT",
+      "Blackwater,"
+    ]
+  },
+  {
+    "value": "BLV",
+    "synonyms": [
+      "BLV",
+      "Belleville,",
+      "IL "
+    ]
+  },
+  {
+    "value": "BLZ",
+    "synonyms": [
+      "BLZ",
+      "Blantyre,",
+      "Malawi "
+    ]
+  },
+  {
+    "value": "BMD",
+    "synonyms": [
+      "BMD",
+      "Belo,",
+      "Madagascar "
+    ]
+  },
+  {
+    "value": "BME",
+    "synonyms": [
+      "Australia ",
+      "BME",
+      "Broome,"
+    ]
+  },
+  {
+    "value": "BMI",
+    "synonyms": [
+      "BMI",
+      "Bloomington,",
+      "IL "
+    ]
+  },
+  {
+    "value": "BMK",
+    "synonyms": [
+      "BMK",
+      "Borkum,",
+      "Germany "
+    ]
+  },
+  {
+    "value": "BMO",
+    "synonyms": [
+      "BMO",
+      "Bhamo,",
+      "Myanmar "
+    ]
+  },
+  {
+    "value": "BMP",
+    "synonyms": [
+      "BMP",
+      "Brampton",
+      "Island, Australia "
+    ]
+  },
+  {
+    "value": "BMU",
+    "synonyms": [
+      "BMU",
+      "Bima,",
+      "Indonesia "
+    ]
+  },
+  {
+    "value": "BMV",
+    "synonyms": [
+      "BMV",
+      "Banmethuot,",
+      "Viet Nam - Phung-Doc "
+    ]
+  },
+  {
+    "value": "BMY",
+    "synonyms": [
+      "BMY",
+      "Belep",
+      "Island, New Caledonia "
+    ]
+  },
+  {
+    "value": "BND",
+    "synonyms": [
+      "Abbas, Iran ",
+      "BND",
+      "Bandar"
+    ]
+  },
+  {
+    "value": "BNE",
+    "synonyms": [
+      "BNE",
+      "Brisbane,",
+      "Queensland, Australia "
+    ]
+  },
+  {
+    "value": "BNJ",
+    "synonyms": [
+      "BNJ",
+      "Bonn,",
+      "Germany "
+    ]
+  },
+  {
+    "value": "BNK",
+    "synonyms": [
+      "Australia ",
+      "BNK",
+      "Ballina,"
+    ]
+  },
+  {
+    "value": "BNN",
+    "synonyms": [
+      "BNN",
+      "Bronnoysund,",
+      "Norway "
+    ]
+  },
+  {
+    "value": "BNP",
+    "synonyms": [
+      "BNP",
+      "Bannu,",
+      "Pakistan "
+    ]
+  },
+  {
+    "value": "BNS",
+    "synonyms": [
+      "BNS",
+      "Barinas,",
+      "Venezuela "
+    ]
+  },
+  {
+    "value": "BNX",
+    "synonyms": [
+      "BNX",
+      "Banja",
+      "Luka, Bosnia Herzegovina "
+    ]
+  },
+  {
+    "value": "BNY",
+    "synonyms": [
+      "BNY",
+      "Bellona,",
+      "Solomon Islands "
+    ]
+  },
+  {
+    "value": "BOA",
+    "synonyms": [
+      "BOA",
+      "Boma,",
+      "Congo "
+    ]
+  },
+  {
+    "value": "BOB",
+    "synonyms": [
+      "BOB",
+      "Bora",
+      "Bora, French Polynesia "
+    ]
+  },
+  {
+    "value": "BOC",
+    "synonyms": [
+      "BOC",
+      "Bocas",
+      "Del Toro, Panama "
+    ]
+  },
+  {
+    "value": "BOD",
+    "synonyms": [
+      "BOD",
+      "Bordeaux,",
+      "France "
+    ]
+  },
+  {
+    "value": "BOG",
+    "synonyms": [
+      "BOG",
+      "Bogota,",
+      "Colombia "
+    ]
+  },
+  {
+    "value": "BOG",
+    "synonyms": [
+      "Bogota",
+      "El Dorado"
+    ]
+  },
+  {
+    "value": "BOH",
+    "synonyms": [
+      "BOH",
+      "Bournemouth,",
+      "United Kingdom "
+    ]
+  },
+  {
+    "value": "BOI",
+    "synonyms": [
+      "BOI",
+      "Boise,",
+      "ID "
+    ]
+  },
+  {
+    "value": "BOJ",
+    "synonyms": [
+      "BOJ",
+      "Bourgas,",
+      "Bulgaria "
+    ]
+  },
+  {
+    "value": "BOM",
+    "synonyms": [
+      "BOM",
+      "Bombay,",
+      "India "
+    ]
+  },
+  {
+    "value": "BON",
+    "synonyms": [
+      "BON",
+      "Bonaire,",
+      "Netherlands Antilles "
+    ]
+  },
+  {
+    "value": "BOO",
+    "synonyms": [
+      "BOO",
+      "Bodo,",
+      "Norway "
+    ]
+  },
+  {
+    "value": "BOS",
+    "synonyms": [
+      "BOS",
+      "Boston,",
+      "MA "
+    ]
+  },
+  {
+    "value": "BOX",
+    "synonyms": [
+      "Australia ",
+      "BOX",
+      "Borroloola,"
+    ]
+  },
+  {
+    "value": "BPF",
+    "synonyms": [
+      "BPF",
+      "Batuna,",
+      "Solomon Islands "
+    ]
+  },
+  {
+    "value": "BPN",
+    "synonyms": [
+      "BPN",
+      "Balikpapan,",
+      "Indonesia "
+    ]
+  },
+  {
+    "value": "BPT",
+    "synonyms": [
+      "Arthur, TX ",
+      "BPT",
+      "Beaumont/Port"
+    ]
+  },
+  {
+    "value": "BPX",
+    "synonyms": [
+      "BPX",
+      "Bangda,",
+      "China "
+    ]
+  },
+  {
+    "value": "BPY",
+    "synonyms": [
+      "BPY",
+      "Besalampy,",
+      "Madagascar "
+    ]
+  },
+  {
+    "value": "BQK",
+    "synonyms": [
+      "BQK",
+      "Brunswick,",
+      "GA "
+    ]
+  },
+  {
+    "value": "BQL",
+    "synonyms": [
+      "Australia ",
+      "BQL",
+      "Boulia,"
+    ]
+  },
+  {
+    "value": "BQN",
+    "synonyms": [
+      "Aguadilla,",
+      "BQN",
+      "Puerto Rico "
+    ]
+  },
+  {
+    "value": "BQS",
+    "synonyms": [
+      "BQS",
+      "Blagoveschensk,",
+      "Russia "
+    ]
+  },
+  {
+    "value": "BRA",
+    "synonyms": [
+      "BRA",
+      "Barreiras,",
+      "Brazil "
+    ]
+  },
+  {
+    "value": "BRD",
+    "synonyms": [
+      "BRD",
+      "Brainerd,",
+      "MN "
+    ]
+  },
+  {
+    "value": "BRE",
+    "synonyms": [
+      "BRE",
+      "Bremen,",
+      "Germany "
+    ]
+  },
+  {
+    "value": "BRI",
+    "synonyms": [
+      "BRI",
+      "Bari,",
+      "Italy "
+    ]
+  },
+  {
+    "value": "BRK",
+    "synonyms": [
+      "Australia ",
+      "BRK",
+      "Bourke,"
+    ]
+  },
+  {
+    "value": "BRL",
+    "synonyms": [
+      "BRL",
+      "Burlington,",
+      "IA "
+    ]
+  },
+  {
+    "value": "BRM",
+    "synonyms": [
+      "BRM",
+      "Barquisimeto,",
+      "Venezuela "
+    ]
+  },
+  {
+    "value": "BRN",
+    "synonyms": [
+      "BRN",
+      "Berne,",
+      "Switzerland - Belp Airport "
+    ]
+  },
+  {
+    "value": "BRO",
+    "synonyms": [
+      "BRO",
+      "Brownsville,",
+      "TX "
+    ]
+  },
+  {
+    "value": "BRQ",
+    "synonyms": [
+      "BRQ",
+      "Brno,",
+      "Czech Republic - Turany "
+    ]
+  },
+  {
+    "value": "BRR",
+    "synonyms": [
+      "BRR",
+      "Barra,",
+      "United Kingdom "
+    ]
+  },
+  {
+    "value": "BRS",
+    "synonyms": [
+      "BRS",
+      "Bristol,",
+      "United Kingdom "
+    ]
+  },
+  {
+    "value": "BRT",
+    "synonyms": [
+      "BRT",
+      "Bathurst",
+      "Island, Australia "
+    ]
+  },
+  {
+    "value": "BRU",
+    "synonyms": [
+      "BRU",
+      "Belgium - National ",
+      "Brussels,"
+    ]
+  },
+  {
+    "value": "BRW",
+    "synonyms": [
+      "AK ",
+      "BRW",
+      "Barrow,"
+    ]
+  },
+  {
+    "value": "BSB",
+    "synonyms": [
+      "BSB",
+      "Brasilia,",
+      "DF, Brazil "
+    ]
+  },
+  {
+    "value": "BSC",
+    "synonyms": [
+      "BSC",
+      "Bahia",
+      "Solano, Colombia "
+    ]
+  },
+  {
+    "value": "BSD",
+    "synonyms": [
+      "BSD",
+      "Baoshan,",
+      "China "
+    ]
+  },
+  {
+    "value": "BSL",
+    "synonyms": [
+      "BSL",
+      "Basel,",
+      "Switzerland "
+    ]
+  },
+  {
+    "value": "BSO",
+    "synonyms": [
+      "BSO",
+      "Basco,",
+      "Philippines "
+    ]
+  },
+  {
+    "value": "BTH",
+    "synonyms": [
+      "BTH",
+      "Batam,",
+      "Indonesia "
+    ]
+  },
+  {
+    "value": "BTI",
+    "synonyms": [
+      "BTI",
+      "Barter",
+      "Island, AK "
+    ]
+  },
+  {
+    "value": "BTJ",
+    "synonyms": [
+      "Aceh, Indonesia ",
+      "BTJ",
+      "Banda"
+    ]
+  },
+  {
+    "value": "BTK",
+    "synonyms": [
+      "BTK",
+      "Bratsk,",
+      "Russia "
+    ]
+  },
+  {
+    "value": "BTM",
+    "synonyms": [
+      "BTM",
+      "Butte,",
+      "MT "
+    ]
+  },
+  {
+    "value": "BTR",
+    "synonyms": [
+      "BTR",
+      "Baton",
+      "Rouge, LA "
+    ]
+  },
+  {
+    "value": "BTS",
+    "synonyms": [
+      "BTS",
+      "Bratislava,",
+      "Slovakia "
+    ]
+  },
+  {
+    "value": "BTT",
+    "synonyms": [
+      "AK ",
+      "BTT",
+      "Bettles,"
+    ]
+  },
+  {
+    "value": "BTU",
+    "synonyms": [
+      "BTU",
+      "Bintulu,",
+      "Malaysia "
+    ]
+  },
+  {
+    "value": "BTV",
+    "synonyms": [
+      "BTV",
+      "Burlington,",
+      "VT "
+    ]
+  },
+  {
+    "value": "BUC",
+    "synonyms": [
+      "Australia ",
+      "BUC",
+      "Burketown,"
+    ]
+  },
+  {
+    "value": "BUD",
+    "synonyms": [
+      "BUD",
+      "Budapest,",
+      "Hungary "
+    ]
+  },
+  {
+    "value": "BUF",
+    "synonyms": [
+      "BUF",
+      "Buffalo,",
+      "NY "
+    ]
+  },
+  {
+    "value": "BUI",
+    "synonyms": [
+      "BUI",
+      "Bokondini,",
+      "Indonesia "
+    ]
+  },
+  {
+    "value": "BUO",
+    "synonyms": [
+      "BUO",
+      "Burao,",
+      "Somalia "
+    ]
+  },
+  {
+    "value": "BUR",
+    "synonyms": [
+      "BUR",
+      "Burbank,",
+      "CA "
+    ]
+  },
+  {
+    "value": "BUS",
+    "synonyms": [
+      "BUS",
+      "Batumi,",
+      "Georgia "
+    ]
+  },
+  {
+    "value": "BUZ",
+    "synonyms": [
+      "BUZ",
+      "Bashehr,",
+      "Iran "
+    ]
+  },
+  {
+    "value": "BVB",
+    "synonyms": [
+      "BVB",
+      "Boavista,",
+      "Brazil "
+    ]
+  },
+  {
+    "value": "BVC",
+    "synonyms": [
+      "BVC",
+      "Boa",
+      "Vista, Cape Verde "
+    ]
+  },
+  {
+    "value": "BVE",
+    "synonyms": [
+      "BVE",
+      "Brive-La-Gaillarde,",
+      "France - Laroche"
+    ]
+  },
+  {
+    "value": "BVG",
+    "synonyms": [
+      "BVG",
+      "Berlevag,",
+      "Norway "
+    ]
+  },
+  {
+    "value": "BVI",
+    "synonyms": [
+      "Australia ",
+      "BVI",
+      "Birdsville,"
+    ]
+  },
+  {
+    "value": "BWA",
+    "synonyms": [
+      "BWA",
+      "Bhairawa,",
+      "Nepal "
+    ]
+  },
+  {
+    "value": "BWD",
+    "synonyms": [
+      "BWD",
+      "Brawnwood,",
+      "TX "
+    ]
+  },
+  {
+    "value": "BWE",
+    "synonyms": [
+      "BWE",
+      "Braunschweig,",
+      "Denmark "
+    ]
+  },
+  {
+    "value": "BWG",
+    "synonyms": [
+      "BWG",
+      "Bowling",
+      "Green, KY "
+    ]
+  },
+  {
+    "value": "BWI",
+    "synonyms": [
+      "BWI",
+      "Baltimore,",
+      "MD "
+    ]
+  },
+  {
+    "value": "BWK",
+    "synonyms": [
+      "BWK",
+      "Bol,",
+      "Croatia "
+    ]
+  },
+  {
+    "value": "BWN",
+    "synonyms": [
+      "BWN",
+      "Bandar",
+      "Seri Begawan, Brunei "
+    ]
+  },
+  {
+    "value": "BWQ",
+    "synonyms": [
+      "Australia ",
+      "BWQ",
+      "Brewarrina,"
+    ]
+  },
+  {
+    "value": "BWT",
+    "synonyms": [
+      "Australia ",
+      "BWT",
+      "Burnie,"
+    ]
+  },
+  {
+    "value": "BXB",
+    "synonyms": [
+      "BXB",
+      "Babo,",
+      "Indonesia "
+    ]
+  },
+  {
+    "value": "BXD",
+    "synonyms": [
+      "BXD",
+      "Bade,",
+      "Indonesia "
+    ]
+  },
+  {
+    "value": "BXM",
+    "synonyms": [
+      "BXM",
+      "Batom,",
+      "Indonesia "
+    ]
+  },
+  {
+    "value": "BXR",
+    "synonyms": [
+      "BXR",
+      "Bam,",
+      "Iran "
+    ]
+  },
+  {
+    "value": "BXU",
+    "synonyms": [
+      "BXU",
+      "Butuan,",
+      "Philippines "
+    ]
+  },
+  {
+    "value": "BYA",
+    "synonyms": [
+      "AK ",
+      "BYA",
+      "Boundary,"
+    ]
+  },
+  {
+    "value": "BYU",
+    "synonyms": [
+      "BYU",
+      "Bayreuth,",
+      "Germany "
+    ]
+  },
+  {
+    "value": "BZE",
+    "synonyms": [
+      "BZE",
+      "Belize",
+      "City, Belize - International "
+    ]
+  },
+  {
+    "value": "BZG",
+    "synonyms": [
+      "BZG",
+      "Bydgoszcz,",
+      "Poland "
+    ]
+  },
+  {
+    "value": "BZI",
+    "synonyms": [
+      "BZI",
+      "Balikesir,",
+      "Turkey "
+    ]
+  },
+  {
+    "value": "BZL",
+    "synonyms": [
+      "BZL",
+      "Bangladesh ",
+      "Barisal,"
+    ]
+  },
+  {
+    "value": "BZN",
+    "synonyms": [
+      "BZN",
+      "Bozeman,",
+      "MT "
+    ]
+  },
+  {
+    "value": "BZO",
+    "synonyms": [
+      "BZO",
+      "Bolzano,",
+      "Italy "
+    ]
+  },
+  {
+    "value": "BZR",
+    "synonyms": [
+      "BZR",
+      "Beziers,",
+      "France "
+    ]
+  },
+  {
+    "value": "BZV",
+    "synonyms": [
+      "BZV",
+      "Brazzaville,",
+      "Congo "
+    ]
+  },
+  {
+    "value": "CAC",
+    "synonyms": [
+      "Brazil ",
+      "CAC",
+      "Cascavel,"
+    ]
+  },
+  {
+    "value": "CAE",
+    "synonyms": [
+      "CAE",
+      "Columbia,",
+      "SC "
+    ]
+  },
+  {
+    "value": "CAG",
+    "synonyms": [
+      "CAG",
+      "Cagliari,",
+      "Italy "
+    ]
+  },
+  {
+    "value": "CAI",
+    "synonyms": [
+      "CAI",
+      "Cairo,",
+      "Egypt "
+    ]
+  },
+  {
+    "value": "CAK",
+    "synonyms": [
+      "Akron/Canton,",
+      "CAK",
+      "OH "
+    ]
+  },
+  {
+    "value": "CAK",
+    "synonyms": [
+      "CAK",
+      "Canton/Akron,",
+      "OH "
+    ]
+  },
+  {
+    "value": "CAL",
+    "synonyms": [
+      "CAL",
+      "Campbeltown,",
+      "United Kingdom "
+    ]
+  },
+  {
+    "value": "CAP",
+    "synonyms": [
+      "CAP",
+      "Cap",
+      "Haitien, Haiti "
+    ]
+  },
+  {
+    "value": "CAQ",
+    "synonyms": [
+      "CAQ",
+      "Caucasia,",
+      "Colombia "
+    ]
+  },
+  {
+    "value": "CAS",
+    "synonyms": [
+      "CAS",
+      "Casablanca,",
+      "Morocco - Anfa "
+    ]
+  },
+  {
+    "value": "CAW",
+    "synonyms": [
+      "Brazil ",
+      "CAW",
+      "Campos,"
+    ]
+  },
+  {
+    "value": "CAZ",
+    "synonyms": [
+      "Australia ",
+      "CAZ",
+      "Cobar,"
+    ]
+  },
+  {
+    "value": "CBB",
+    "synonyms": [
+      "Bolivia ",
+      "CBB",
+      "Cochabamba,"
+    ]
+  },
+  {
+    "value": "CBE",
+    "synonyms": [
+      "CBE",
+      "Cumberland,",
+      "MD "
+    ]
+  },
+  {
+    "value": "CBG",
+    "synonyms": [
+      "CBG",
+      "Cambridge,",
+      "United Kingdom "
+    ]
+  },
+  {
+    "value": "CBH",
+    "synonyms": [
+      "Algeria ",
+      "Bechar,",
+      "CBH"
+    ]
+  },
+  {
+    "value": "CBO",
+    "synonyms": [
+      "CBO",
+      "Cotabato,",
+      "Philippines "
+    ]
+  },
+  {
+    "value": "CBQ",
+    "synonyms": [
+      "CBQ",
+      "Calabar,",
+      "Nigeria "
+    ]
+  },
+  {
+    "value": "CBR",
+    "synonyms": [
+      "Australia ",
+      "CBR",
+      "Canberra,"
+    ]
+  },
+  {
+    "value": "CCF",
+    "synonyms": [
+      "CCF",
+      "Carcassonne,",
+      "France "
+    ]
+  },
+  {
+    "value": "CCM",
+    "synonyms": [
+      "Brazil ",
+      "CCM",
+      "Criciuma,"
+    ]
+  },
+  {
+    "value": "CCP",
+    "synonyms": [
+      "CCP",
+      "Chile ",
+      "Concepcion,"
+    ]
+  },
+  {
+    "value": "CCR",
+    "synonyms": [
+      "CA ",
+      "CCR",
+      "Concord,"
+    ]
+  },
+  {
+    "value": "CCS",
+    "synonyms": [
+      "CCS",
+      "Caracas,",
+      "Venezuela "
+    ]
+  },
+  {
+    "value": "CCU",
+    "synonyms": [
+      "CCU",
+      "Calcutta,",
+      "India "
+    ]
+  },
+  {
+    "value": "CCV",
+    "synonyms": [
+      "CCV",
+      "Cove, Vanuatu ",
+      "Craig"
+    ]
+  },
+  {
+    "value": "CDB",
+    "synonyms": [
+      "Bay, AK ",
+      "CDB",
+      "Cold"
+    ]
+  },
+  {
+    "value": "CDC",
+    "synonyms": [
+      "CDC",
+      "Cedar",
+      "City, UT "
+    ]
+  },
+  {
+    "value": "CDR",
+    "synonyms": [
+      "CDR",
+      "Chadron,",
+      "NE "
+    ]
+  },
+  {
+    "value": "CDV",
+    "synonyms": [
+      "AK ",
+      "CDV",
+      "Cordova,"
+    ]
+  },
+  {
+    "value": "CEB",
+    "synonyms": [
+      "CEB",
+      "Cebu,",
+      "Philippines - Matan International "
+    ]
+  },
+  {
+    "value": "CEC",
+    "synonyms": [
+      "CEC",
+      "City, CA ",
+      "Crescent"
+    ]
+  },
+  {
+    "value": "CED",
+    "synonyms": [
+      "Australia ",
+      "CED",
+      "Cedun,"
+    ]
+  },
+  {
+    "value": "CEE",
+    "synonyms": [
+      "CEE",
+      "Chevepovets,",
+      "Russia "
+    ]
+  },
+  {
+    "value": "CEE",
+    "synonyms": [
+      "CEE",
+      "Cherepovets,",
+      "Russia "
+    ]
+  },
+  {
+    "value": "CEG",
+    "synonyms": [
+      "CEG",
+      "Chester,",
+      "United Kingdom "
+    ]
+  },
+  {
+    "value": "CEI",
+    "synonyms": [
+      "CEI",
+      "Chiang",
+      "Rai, Thailand "
+    ]
+  },
+  {
+    "value": "CEK",
+    "synonyms": [
+      "CEK",
+      "Chelybinsk,",
+      "Russia "
+    ]
+  },
+  {
+    "value": "CEM",
+    "synonyms": [
+      "AK ",
+      "CEM",
+      "Central,"
+    ]
+  },
+  {
+    "value": "CEN",
+    "synonyms": [
+      "CEN",
+      "Ciudad Obregon",
+      "Obregon, Mexico "
+    ]
+  },
+  {
+    "value": "CEQ",
+    "synonyms": [
+      "CEQ",
+      "Cannes,",
+      "France - Mandelieu "
+    ]
+  },
+  {
+    "value": "CEZ",
+    "synonyms": [
+      "CEZ",
+      "CO ",
+      "Cortez,"
+    ]
+  },
+  {
+    "value": "CFA",
+    "synonyms": [
+      "CFA",
+      "Coffee",
+      "Point, AK "
+    ]
+  },
+  {
+    "value": "CFE",
+    "synonyms": [
+      "CFE",
+      "Clermont-ferrand,",
+      "France "
+    ]
+  },
+  {
+    "value": "CFR",
+    "synonyms": [
+      "CFR",
+      "Caen,",
+      "France "
+    ]
+  },
+  {
+    "value": "CFS",
+    "synonyms": [
+      "CFS",
+      "Coffs",
+      "Harbor, Australia "
+    ]
+  },
+  {
+    "value": "CGA",
+    "synonyms": [
+      "AK ",
+      "CGA",
+      "Craig,"
+    ]
+  },
+  {
+    "value": "CGB",
+    "synonyms": [
+      "Brazil ",
+      "CGB",
+      "Cuiaba,"
+    ]
+  },
+  {
+    "value": "CGD",
+    "synonyms": [
+      "CGD",
+      "Changde,",
+      "China "
+    ]
+  },
+  {
+    "value": "CGI",
+    "synonyms": [
+      "CGI",
+      "Cape",
+      "Girardeau, MO "
+    ]
+  },
+  {
+    "value": "CGN",
+    "synonyms": [
+      "CGN",
+      "Cologne,",
+      "Germany - Cologne/Bonn "
+    ]
+  },
+  {
+    "value": "CGP",
+    "synonyms": [
+      "Bangladesh ",
+      "CGP",
+      "Chittagong,"
+    ]
+  },
+  {
+    "value": "CGQ",
+    "synonyms": [
+      "CGQ",
+      "Changchun,",
+      "China "
+    ]
+  },
+  {
+    "value": "CGR",
+    "synonyms": [
+      "CGR",
+      "Campo",
+      "Grande, Brazil "
+    ]
+  },
+  {
+    "value": "CGY",
+    "synonyms": [
+      "CGY",
+      "Cagayan",
+      "De Oro, Philippines - Lumbia "
+    ]
+  },
+  {
+    "value": "CHA",
+    "synonyms": [
+      "CHA",
+      "Chattanooga,",
+      "TN "
+    ]
+  },
+  {
+    "value": "CHC",
+    "synonyms": [
+      "CHC",
+      "Christchurch,",
+      "New Zealand "
+    ]
+  },
+  {
+    "value": "CHG",
+    "synonyms": [
+      "CHG",
+      "Chaoyang,",
+      "China "
+    ]
+  },
+  {
+    "value": "CHI",
+    "synonyms": [
+      "CHI",
+      "Chicago,",
+      "IL - All airports "
+    ]
+  },
+  {
+    "value": "CHO",
+    "synonyms": [
+      "CHO",
+      "Charlottesville,",
+      "VA "
+    ]
+  },
+  {
+    "value": "CHP",
+    "synonyms": [
+      "CHP",
+      "Circle",
+      "Hot Springs, AK "
+    ]
+  },
+  {
+    "value": "CHQ",
+    "synonyms": [
+      "CHQ",
+      "Chania,",
+      "Greece "
+    ]
+  },
+  {
+    "value": "CHS",
+    "synonyms": [
+      "CHS",
+      "Charleston,",
+      "SC "
+    ]
+  },
+  {
+    "value": "CHT",
+    "synonyms": [
+      "CHT",
+      "Chatham",
+      "Island, New Zealand "
+    ]
+  },
+  {
+    "value": "CHU",
+    "synonyms": [
+      "AK ",
+      "CHU",
+      "Chuathbaluk,"
+    ]
+  },
+  {
+    "value": "CHX",
+    "synonyms": [
+      "CHX",
+      "Changuinda,",
+      "Panama "
+    ]
+  },
+  {
+    "value": "CHY",
+    "synonyms": [
+      "Bay, Solomon Islands ",
+      "CHY",
+      "Choiseul"
+    ]
+  },
+  {
+    "value": "CIC",
+    "synonyms": [
+      "CA ",
+      "CIC",
+      "Chico,"
+    ]
+  },
+  {
+    "value": "CID",
+    "synonyms": [
+      "CID",
+      "Cedar",
+      "Rapids, IA "
+    ]
+  },
+  {
+    "value": "CIF",
+    "synonyms": [
+      "CIF",
+      "Chifeng,",
+      "China "
+    ]
+  },
+  {
+    "value": "CIJ",
+    "synonyms": [
+      "Bolivia ",
+      "CIJ",
+      "Cobija,"
+    ]
+  },
+  {
+    "value": "CIK",
+    "synonyms": [
+      "AK ",
+      "CIK",
+      "Chalkyitsik,"
+    ]
+  },
+  {
+    "value": "CIP",
+    "synonyms": [
+      "CIP",
+      "Chipata,",
+      "Zambia "
+    ]
+  },
+  {
+    "value": "CIW",
+    "synonyms": [
+      "CIW",
+      "Canouan,",
+      "Saint Vincent and the Grenadines "
+    ]
+  },
+  {
+    "value": "CIX",
+    "synonyms": [
+      "CIX",
+      "Chicayo,",
+      "Peru "
+    ]
+  },
+  {
+    "value": "CJA",
+    "synonyms": [
+      "CJA",
+      "Cajamarca,",
+      "Peru "
+    ]
+  },
+  {
+    "value": "CJB",
+    "synonyms": [
+      "CJB",
+      "Coimbatore,",
+      "India "
+    ]
+  },
+  {
+    "value": "CJC",
+    "synonyms": [
+      "CJC",
+      "Calama,",
+      "Chile "
+    ]
+  },
+  {
+    "value": "CJJ",
+    "synonyms": [
+      "CJJ",
+      "Cheongju,",
+      "South Korea "
+    ]
+  },
+  {
+    "value": "CJS",
+    "synonyms": [
+      "CJS",
+      "Ciudad Juarez",
+      "Juarez, Mexico "
+    ]
+  },
+  {
+    "value": "CKB",
+    "synonyms": [
+      "CKB",
+      "Clarksburg,",
+      "WV "
+    ]
+  },
+  {
+    "value": "CKG",
+    "synonyms": [
+      "CKG",
+      "China ",
+      "Chongqing,"
+    ]
+  },
+  {
+    "value": "CKI",
+    "synonyms": [
+      "CKI",
+      "Croker",
+      "Island, Australia "
+    ]
+  },
+  {
+    "value": "CKO",
+    "synonyms": [
+      "CKO",
+      "Creek, AK ",
+      "Crooked"
+    ]
+  },
+  {
+    "value": "CKS",
+    "synonyms": [
+      "Brazil ",
+      "CKS",
+      "Carajas,"
+    ]
+  },
+  {
+    "value": "CKX",
+    "synonyms": [
+      "AK ",
+      "CKX",
+      "Chicken,"
+    ]
+  },
+  {
+    "value": "CKY",
+    "synonyms": [
+      "CKY",
+      "Conakry,",
+      "Guinea "
+    ]
+  },
+  {
+    "value": "CLD",
+    "synonyms": [
+      "CA ",
+      "CLD",
+      "Carlsbad,"
+    ]
+  },
+  {
+    "value": "CLE",
+    "synonyms": [
+      "CLE",
+      "Cleveland,",
+      "OH "
+    ]
+  },
+  {
+    "value": "CLJ",
+    "synonyms": [
+      "CLJ",
+      "Cluj,",
+      "Romania "
+    ]
+  },
+  {
+    "value": "CLL",
+    "synonyms": [
+      "CLL",
+      "College",
+      "Station, TX "
+    ]
+  },
+  {
+    "value": "CLO",
+    "synonyms": [
+      "CLO",
+      "Cali,",
+      "Colombia "
+    ]
+  },
+  {
+    "value": "CLO",
+    "synonyms": [
+      "Aeropuerto Alfonso Bonilla",
+      "Alfonso Bonilla",
+      "Cali"
+    ]
+  },
+  {
+    "value": "CLP",
+    "synonyms": [
+      "CLP",
+      "Clarks",
+      "Point, AK "
+    ]
+  },
+  {
+    "value": "CLQ",
+    "synonyms": [
+      "CLQ",
+      "Colima,"
+    ]
+  },
+  {
+    "value": "CLT",
+    "synonyms": [
+      "CLT",
+      "Charlotte,",
+      "NC "
+    ]
+  },
+  {
+    "value": "CLY",
+    "synonyms": [
+      "CLY",
+      "Calvi,",
+      "France "
+    ]
+  },
+  {
+    "value": "CMA",
+    "synonyms": [
+      "Australia ",
+      "CMA",
+      "Cunnamulla,"
+    ]
+  },
+  {
+    "value": "CMB",
+    "synonyms": [
+      "CMB",
+      "Colombo,",
+      "Sri Lanka "
+    ]
+  },
+  {
+    "value": "CME",
+    "synonyms": [
+      "CME",
+      "Ciudad Del Carmen, Mexico "
+    ]
+  },
+  {
+    "value": "CMF",
+    "synonyms": [
+      "CMF",
+      "Chambery,",
+      "France "
+    ]
+  },
+  {
+    "value": "CMG",
+    "synonyms": [
+      "Brazil ",
+      "CMG",
+      "Corumba,"
+    ]
+  },
+  {
+    "value": "CMH",
+    "synonyms": [
+      "CMH",
+      "Columbus,",
+      "OH "
+    ]
+  },
+  {
+    "value": "CMI",
+    "synonyms": [
+      "CMI",
+      "Champaign/Urbana,",
+      "IL "
+    ]
+  },
+  {
+    "value": "CMJ",
+    "synonyms": [
+      "CMJ",
+      "Chi",
+      "Mei, Taiwan "
+    ]
+  },
+  {
+    "value": "CMK",
+    "synonyms": [
+      "CMK",
+      "Club",
+      "Makokola, Malawi "
+    ]
+  },
+  {
+    "value": "CMN",
+    "synonyms": [
+      "CMN",
+      "Casablanca,",
+      "Morocco - Mohamed V "
+    ]
+  },
+  {
+    "value": "CMW",
+    "synonyms": [
+      "CMW",
+      "Camaguey,",
+      "Cuba "
+    ]
+  },
+  {
+    "value": "CNB",
+    "synonyms": [
+      "Australia ",
+      "CNB",
+      "Coonamble,"
+    ]
+  },
+  {
+    "value": "CNC",
+    "synonyms": [
+      "CNC",
+      "Coconut",
+      "Island, Australia "
+    ]
+  },
+  {
+    "value": "CND",
+    "synonyms": [
+      "CND",
+      "Constanta,",
+      "Romania "
+    ]
+  },
+  {
+    "value": "CNF",
+    "synonyms": [
+      "Blo",
+      "CNF",
+      "Horizonte, Brazil "
+    ]
+  },
+  {
+    "value": "CNF",
+    "synonyms": [
+      "Belo",
+      "CNF",
+      "Horizonte, Brazil - Tancredo Neves Intl. "
+    ]
+  },
+  {
+    "value": "CNJ",
+    "synonyms": [
+      "Australia ",
+      "CNJ",
+      "Cloncurry,"
+    ]
+  },
+  {
+    "value": "CNK",
+    "synonyms": [
+      "CNK",
+      "Concordia,",
+      "KS "
+    ]
+  },
+  {
+    "value": "CNM",
+    "synonyms": [
+      "CNM",
+      "Carlsbad,",
+      "NM "
+    ]
+  },
+  {
+    "value": "CNQ",
+    "synonyms": [
+      "Argentina ",
+      "CNQ",
+      "Corrientes,"
+    ]
+  },
+  {
+    "value": "CNS",
+    "synonyms": [
+      "Australia ",
+      "CNS",
+      "Cairns,"
+    ]
+  },
+  {
+    "value": "CNX",
+    "synonyms": [
+      "CNX",
+      "Chiang",
+      "Mai, Thailand "
+    ]
+  },
+  {
+    "value": "COC",
+    "synonyms": [
+      "Benin ",
+      "COC",
+      "Cotarou,"
+    ]
+  },
+  {
+    "value": "COC",
+    "synonyms": [
+      "Argentina ",
+      "COC",
+      "Concordia,"
+    ]
+  },
+  {
+    "value": "COD",
+    "synonyms": [
+      "COD",
+      "Cody/Yellowstone,",
+      "WY "
+    ]
+  },
+  {
+    "value": "COG",
+    "synonyms": [
+      "COG",
+      "Colombia ",
+      "Condoto,"
+    ]
+  },
+  {
+    "value": "COK",
+    "synonyms": [
+      "COK",
+      "Cochin,",
+      "India "
+    ]
+  },
+  {
+    "value": "COR",
+    "synonyms": [
+      "Argentina ",
+      "COR",
+      "Cordoba,"
+    ]
+  },
+  {
+    "value": "COS",
+    "synonyms": [
+      "COS",
+      "Colorado",
+      "Springs, CO "
+    ]
+  },
+  {
+    "value": "COU",
+    "synonyms": [
+      "COU",
+      "Columbia,",
+      "MO "
+    ]
+  },
+  {
+    "value": "CPD",
+    "synonyms": [
+      "CPD",
+      "Coober",
+      "Pedy, Australia "
+    ]
+  },
+  {
+    "value": "CPE",
+    "synonyms": [
+      "CPE",
+      "Campeche,"
+    ]
+  },
+  {
+    "value": "CPH",
+    "synonyms": [
+      "CPH",
+      "Copenhagen,",
+      "Denmark "
+    ]
+  },
+  {
+    "value": "CPI",
+    "synonyms": [
+      "CPI",
+      "Cape",
+      "Orford, Papua New Guinea "
+    ]
+  },
+  {
+    "value": "CPO",
+    "synonyms": [
+      "CPO",
+      "Chile ",
+      "Copiapo,"
+    ]
+  },
+  {
+    "value": "CPQ",
+    "synonyms": [
+      "Brazil ",
+      "CPQ",
+      "Campinas,"
+    ]
+  },
+  {
+    "value": "CPR",
+    "synonyms": [
+      "CPR",
+      "Casper,",
+      "WY "
+    ]
+  },
+  {
+    "value": "CPT",
+    "synonyms": [
+      "CPT",
+      "Cape",
+      "Town, South Africa "
+    ]
+  },
+  {
+    "value": "CPV",
+    "synonyms": [
+      "CPV",
+      "Campina",
+      "Grande, Brazil "
+    ]
+  },
+  {
+    "value": "CRD",
+    "synonyms": [
+      "Argentina ",
+      "CRD",
+      "Camodoro,"
+    ]
+  },
+  {
+    "value": "CRI",
+    "synonyms": [
+      "CRI",
+      "Crooked",
+      "Island, Bahamas "
+    ]
+  },
+  {
+    "value": "CRL",
+    "synonyms": [
+      "Belguim - Charleroi ",
+      "Brussels,",
+      "CRL"
+    ]
+  },
+  {
+    "value": "CRP",
+    "synonyms": [
+      "CRP",
+      "Christi, TX ",
+      "Corpus"
+    ]
+  },
+  {
+    "value": "CRV",
+    "synonyms": [
+      "CRV",
+      "Crotone,",
+      "Italy "
+    ]
+  },
+  {
+    "value": "CRW",
+    "synonyms": [
+      "CRW",
+      "Charleston,",
+      "WV "
+    ]
+  },
+  {
+    "value": "CSG",
+    "synonyms": [
+      "CSG",
+      "Columbus,",
+      "GA "
+    ]
+  },
+  {
+    "value": "CSI",
+    "synonyms": [
+      "Australia ",
+      "CSI",
+      "Casino,"
+    ]
+  },
+  {
+    "value": "CST",
+    "synonyms": [
+      "CST",
+      "Castaway,",
+      "Fiji "
+    ]
+  },
+  {
+    "value": "CSY",
+    "synonyms": [
+      "CSY",
+      "Cheboksary,",
+      "Russia "
+    ]
+  },
+  {
+    "value": "CTA",
+    "synonyms": [
+      "CTA",
+      "Catania,",
+      "Italy "
+    ]
+  },
+  {
+    "value": "CTC",
+    "synonyms": [
+      "Argentina ",
+      "CTC",
+      "Catamarca,"
+    ]
+  },
+  {
+    "value": "CTD",
+    "synonyms": [
+      "CTD",
+      "Chitre,",
+      "Panama "
+    ]
+  },
+  {
+    "value": "CTG",
+    "synonyms": [
+      "CTG",
+      "Cartagena,",
+      "Colombia "
+    ]
+  },
+  {
+    "value": "CTL",
+    "synonyms": [
+      "Australia ",
+      "CTL",
+      "Charleville,"
+    ]
+  },
+  {
+    "value": "CTM",
+    "synonyms": [
+      "CTM",
+      "Chetumal,"
+    ]
+  },
+  {
+    "value": "CTN",
+    "synonyms": [
+      "Australia ",
+      "CTN",
+      "Cooktown,"
+    ]
+  },
+  {
+    "value": "CTU",
+    "synonyms": [
+      "CTU",
+      "Chergdu,",
+      "China "
+    ]
+  },
+  {
+    "value": "CUC",
+    "synonyms": [
+      "CUC",
+      "Colombia ",
+      "Cucata,"
+    ]
+  },
+  {
+    "value": "CUE",
+    "synonyms": [
+      "CUE",
+      "Cuenca,",
+      "Ecuador "
+    ]
+  },
+  {
+    "value": "CUL",
+    "synonyms": [
+      "CUL",
+      "Culiacan,"
+    ]
+  },
+  {
+    "value": "CUN",
+    "synonyms": [
+      "CUN",
+      "Cancun,"
+    ]
+  },
+  {
+    "value": "CUQ",
+    "synonyms": [
+      "Australia ",
+      "CUQ",
+      "Coen,"
+    ]
+  },
+  {
+    "value": "CUR",
+    "synonyms": [
+      "CUR",
+      "Curacao,",
+      "Netherlands Antilles "
+    ]
+  },
+  {
+    "value": "CUU",
+    "synonyms": [
+      "CUU",
+      "Chihuahua,"
+    ]
+  },
+  {
+    "value": "CUW",
+    "synonyms": [
+      "CUW",
+      "Cove, AK ",
+      "Cube"
+    ]
+  },
+  {
+    "value": "CUZ",
+    "synonyms": [
+      "CUZ",
+      "Cuzco,",
+      "Peru "
+    ]
+  },
+  {
+    "value": "CVC",
+    "synonyms": [
+      "Australia ",
+      "CVC",
+      "Cleve,"
+    ]
+  },
+  {
+    "value": "CVG",
+    "synonyms": [
+      "CVG",
+      "Cincinnati,",
+      "OH "
+    ]
+  },
+  {
+    "value": "CVJ",
+    "synonyms": [
+      "CVJ",
+      "Cuernavaca,"
+    ]
+  },
+  {
+    "value": "CVL",
+    "synonyms": [
+      "CVL",
+      "Cape",
+      "Vogel, Papua New Guinea "
+    ]
+  },
+  {
+    "value": "CVM",
+    "synonyms": [
+      "CVM",
+      "Ciudad Victoria",
+      "Victoria, Mexico "
+    ]
+  },
+  {
+    "value": "CVN",
+    "synonyms": [
+      "CVN",
+      "Clovis,",
+      "NM "
+    ]
+  },
+  {
+    "value": "CVO",
+    "synonyms": [
+      "Albany,",
+      "CVO",
+      "OR - Bus service "
+    ]
+  },
+  {
+    "value": "CVQ",
+    "synonyms": [
+      "Australia ",
+      "CVQ",
+      "Carnarvon,"
+    ]
+  },
+  {
+    "value": "CVU",
+    "synonyms": [
+      "CVU",
+      "Corvo",
+      "Island, Portugal "
+    ]
+  },
+  {
+    "value": "CWB",
+    "synonyms": [
+      "Brazil ",
+      "CWB",
+      "Curitiba,"
+    ]
+  },
+  {
+    "value": "CWL",
+    "synonyms": [
+      "CWL",
+      "Cardiff,",
+      "United Kingdom "
+    ]
+  },
+  {
+    "value": "CXB",
+    "synonyms": [
+      "Bazar, Bangladesh ",
+      "CXB",
+      "Cox\u0027s"
+    ]
+  },
+  {
+    "value": "CXJ",
+    "synonyms": [
+      "CXJ",
+      "Caxias",
+      "Do Sul, Brazil "
+    ]
+  },
+  {
+    "value": "CYB",
+    "synonyms": [
+      "Brac Is, Cambodia ",
+      "CYB",
+      "Cayman"
+    ]
+  },
+  {
+    "value": "CYF",
+    "synonyms": [
+      "AK ",
+      "CYF",
+      "Chefornak,"
+    ]
+  },
+  {
+    "value": "CYI",
+    "synonyms": [
+      "CYI",
+      "Chiayi,",
+      "Taiwan "
+    ]
+  },
+  {
+    "value": "CYO",
+    "synonyms": [
+      "CYO",
+      "Cayo",
+      "Largo Del Sur, Cuba "
+    ]
+  },
+  {
+    "value": "CYS",
+    "synonyms": [
+      "CYS",
+      "Cheyenne,",
+      "WY "
+    ]
+  },
+  {
+    "value": "CZE",
+    "synonyms": [
+      "CZE",
+      "Coro,",
+      "Venezuela "
+    ]
+  },
+  {
+    "value": "CZH",
+    "synonyms": [
+      "Belize ",
+      "CZH",
+      "Corozal,"
+    ]
+  },
+  {
+    "value": "CZL",
+    "synonyms": [
+      "Algeria ",
+      "CZL",
+      "Constantine,"
+    ]
+  },
+  {
+    "value": "CZM",
+    "synonyms": [
+      "CZM",
+      "Cozumel,"
+    ]
+  },
+  {
+    "value": "CZN",
+    "synonyms": [
+      "AK ",
+      "CZN",
+      "Chisana,"
+    ]
+  },
+  {
+    "value": "CZS",
+    "synonyms": [
+      "CZS",
+      "Cruzeiro",
+      "Do Sul, Brazil "
+    ]
+  },
+  {
+    "value": "CZX",
+    "synonyms": [
+      "CZX",
+      "Changzhou,",
+      "China "
+    ]
+  },
+  {
+    "value": "DAD",
+    "synonyms": [
+      "DAD",
+      "Da",
+      "Nang, Viet Nam "
+    ]
+  },
+  {
+    "value": "DCM",
+    "synonyms": [
+      "Castres,",
+      "DCM",
+      "France "
+    ]
+  },
+  {
+    "value": "DIE",
+    "synonyms": [
+      "Antsiranana,",
+      "DIE",
+      "Madagascar "
+    ]
+  },
+  {
+    "value": "DKR",
+    "synonyms": [
+      "DKR",
+      "Dakar,",
+      "Senegal "
+    ]
+  },
+  {
+    "value": "DLM",
+    "synonyms": [
+      "DLM",
+      "Dalaman,",
+      "Turkey "
+    ]
+  },
+  {
+    "value": "DRH",
+    "synonyms": [
+      "DRH",
+      "Dabra,",
+      "Indonesia "
+    ]
+  },
+  {
+    "value": "DYR",
+    "synonyms": [
+      "Anadyr,",
+      "DYR",
+      "Russia "
+    ]
+  },
+  {
+    "value": "EGC",
+    "synonyms": [
+      "Bergerac,",
+      "EGC",
+      "France "
+    ]
+  },
+  {
+    "value": "EGO",
+    "synonyms": [
+      "Belgorod,",
+      "EGO",
+      "Russia "
+    ]
+  },
+  {
+    "value": "EHM",
+    "synonyms": [
+      "Cape",
+      "EHM",
+      "Newenham, AK "
+    ]
+  },
+  {
+    "value": "EIS",
+    "synonyms": [
+      "Beef",
+      "EIS",
+      "Island, British Virgin Islands "
+    ]
+  },
+  {
+    "value": "EJA",
+    "synonyms": [
+      "Barran",
+      "Cabermeja, Colombia ",
+      "EJA"
+    ]
+  },
+  {
+    "value": "ESB",
+    "synonyms": [
+      "Ankara,",
+      "ESB",
+      "Turkey - Esenboga "
+    ]
+  },
+  {
+    "value": "EZE",
+    "synonyms": [
+      "Aires, Argentina - Ministro Pistarini ",
+      "Buenos",
+      "EZE"
+    ]
+  },
+  {
+    "value": "FGI",
+    "synonyms": [
+      "Apia,",
+      "FGI",
+      "Western Samoa "
+    ]
+  },
+  {
+    "value": "FJR",
+    "synonyms": [
+      "Al-Fujairah,",
+      "FJR",
+      "United Arab Emirates "
+    ]
+  },
+  {
+    "value": "GDL",
+    "synonyms": [
+      "Guadalajara",
+      "Miguel Hidalgo",
+      "Miguel Hidalgo y Costilla"
+    ]
+  },
+  {
+    "value": "GIC",
+    "synonyms": [
+      "Boiju",
+      "GIC",
+      "Island, Australia "
+    ]
+  },
+  {
+    "value": "GPT",
+    "synonyms": [
+      "Biloxi/Gulfport,",
+      "GPT",
+      "MS "
+    ]
+  },
+  {
+    "value": "GTR",
+    "synonyms": [
+      "Columbus,",
+      "GTR",
+      "MS "
+    ]
+  },
+  {
+    "value": "GUR",
+    "synonyms": [
+      "Alotau,",
+      "GUR",
+      "Papua New Guinea "
+    ]
+  },
+  {
+    "value": "GYD",
+    "synonyms": [
+      "Azerbaijan ",
+      "Baku,",
+      "GYD"
+    ]
+  },
+  {
+    "value": "GYL",
+    "synonyms": [
+      "Argyle,",
+      "Australia ",
+      "GYL"
+    ]
+  },
+  {
+    "value": "HBE",
+    "synonyms": [
+      "Borg",
+      "El Arab, Egypt ",
+      "HBE"
+    ]
+  },
+  {
+    "value": "HIB",
+    "synonyms": [
+      "Chisholm/Hibbing,",
+      "HIB",
+      "MN "
+    ]
+  },
+  {
+    "value": "HTA",
+    "synonyms": [
+      "Chita,",
+      "HTA",
+      "Russia "
+    ]
+  },
+  {
+    "value": "HTS",
+    "synonyms": [
+      "Ashland,",
+      "HTS",
+      "KY/Huntington, WV "
+    ]
+  },
+  {
+    "value": "HVA",
+    "synonyms": [
+      "Analalava,",
+      "HVA",
+      "Madagascar "
+    ]
+  },
+  {
+    "value": "ICI",
+    "synonyms": [
+      "Cicia,",
+      "Fiji ",
+      "ICI"
+    ]
+  },
+  {
+    "value": "IFP",
+    "synonyms": [
+      "Bullhead",
+      "City/Laughlin, AZ ",
+      "IFP"
+    ]
+  },
+  {
+    "value": "IRC",
+    "synonyms": [
+      "AK ",
+      "Circle,",
+      "IRC"
+    ]
+  },
+  {
+    "value": "IVA",
+    "synonyms": [
+      "Ambanja,",
+      "IVA",
+      "Madagascar "
+    ]
+  },
+  {
+    "value": "IXA",
+    "synonyms": [
+      "Agartala,",
+      "IXA",
+      "India "
+    ]
+  },
+  {
+    "value": "IXB",
+    "synonyms": [
+      "Bagdogra,",
+      "IXB",
+      "India "
+    ]
+  },
+  {
+    "value": "IXC",
+    "synonyms": [
+      "Chandigarh,",
+      "IXC",
+      "India "
+    ]
+  },
+  {
+    "value": "IXU",
+    "synonyms": [
+      "Aurangabad,",
+      "IXU",
+      "India "
+    ]
+  },
+  {
+    "value": "JCA",
+    "synonyms": [
+      "Cannes,",
+      "France - Coisette Heliport ",
+      "JCA"
+    ]
+  },
+  {
+    "value": "JCU",
+    "synonyms": [
+      "Ceuta,",
+      "JCU",
+      "Spain and Canary Islands "
+    ]
+  },
+  {
+    "value": "JEG",
+    "synonyms": [
+      "Aasiaat,",
+      "Greenland ",
+      "JEG"
+    ]
+  },
+  {
+    "value": "JHE",
+    "synonyms": [
+      "Angelholm/Helsingborg,",
+      "JHE",
+      "Sweden "
+    ]
+  },
+  {
+    "value": "JVA",
+    "synonyms": [
+      "Ankavandra,",
+      "JVA",
+      "Madagascar "
+    ]
+  },
+  {
+    "value": "KBC",
+    "synonyms": [
+      "Birch",
+      "Creek, AK ",
+      "KBC"
+    ]
+  },
+  {
+    "value": "KCC",
+    "synonyms": [
+      "Coffman",
+      "Cove, AK ",
+      "KCC"
+    ]
+  },
+  {
+    "value": "KCG",
+    "synonyms": [
+      "AK - Fisheries ",
+      "Chignik,",
+      "KCG"
+    ]
+  },
+  {
+    "value": "KCL",
+    "synonyms": [
+      "AK - Lagoon ",
+      "Chignik,",
+      "KCL"
+    ]
+  },
+  {
+    "value": "KCQ",
+    "synonyms": [
+      "AK - ",
+      "Chignik,",
+      "KCQ"
+    ]
+  },
+  {
+    "value": "KIV",
+    "synonyms": [
+      "Chisinau,",
+      "KIV",
+      "Republic of Moldova "
+    ]
+  },
+  {
+    "value": "KKI",
+    "synonyms": [
+      "AK ",
+      "Akiachak,",
+      "KKI"
+    ]
+  },
+  {
+    "value": "KQA",
+    "synonyms": [
+      "AK ",
+      "Akuton,",
+      "KQA"
+    ]
+  },
+  {
+    "value": "Keeling",
+    "synonyms": [
+      "Cocos",
+      "Islands, Cocos ",
+      "Keeling"
+    ]
+  },
+  {
+    "value": "LAQ",
+    "synonyms": [
+      "Beida,",
+      "LAQ",
+      "Libya - La Braq "
+    ]
+  },
+  {
+    "value": "LEI",
+    "synonyms": [
+      "Almeria,",
+      "LEI",
+      "Spain "
+    ]
+  },
+  {
+    "value": "LEV",
+    "synonyms": [
+      "Bureta,",
+      "Fiji ",
+      "LEV"
+    ]
+  },
+  {
+    "value": "LUR",
+    "synonyms": [
+      "Cape",
+      "LUR",
+      "Lisburne, AK "
+    ]
+  },
+  {
+    "value": "MAA",
+    "synonyms": [
+      "Chennai,",
+      "India ",
+      "MAA"
+    ]
+  },
+  {
+    "value": "MBS",
+    "synonyms": [
+      "Bay",
+      "City, MI ",
+      "MBS"
+    ]
+  },
+  {
+    "value": "MDE",
+    "synonyms": [
+      "Jose Maria Cordova",
+      "Medellin",
+      "medellin"
+    ]
+  },
+  {
+    "value": "MDH",
+    "synonyms": [
+      "Carbondale,",
+      "IL ",
+      "MDH"
+    ]
+  },
+  {
+    "value": "MDW",
+    "synonyms": [
+      "Chicago,",
+      "IL - Midway ",
+      "MDW"
+    ]
+  },
+  {
+    "value": "MEX",
+    "synonyms": [
+      "CDMX",
+      "Ciudad Mexico",
+      "Ciudad de Mexico",
+      "DF",
+      "Mexico DF"
+    ]
+  },
+  {
+    "value": "MRY",
+    "synonyms": [
+      "CA ",
+      "Carmel,",
+      "MRY"
+    ]
+  },
+  {
+    "value": "MTY",
+    "synonyms": [
+      "Mariano Escobedo",
+      "Monterrey"
+    ]
+  },
+  {
+    "value": "NCY",
+    "synonyms": [
+      "Annecy,",
+      "France ",
+      "NCY"
+    ]
+  },
+  {
+    "value": "NSB",
+    "synonyms": [
+      "Bahamas ",
+      "Bimini,",
+      "NSB"
+    ]
+  },
+  {
+    "value": "NTI",
+    "synonyms": [
+      "Bintuni,",
+      "Indonesia ",
+      "NTI"
+    ]
+  },
+  {
+    "value": "ONX",
+    "synonyms": [
+      "Colon,",
+      "ONX",
+      "Panama "
+    ]
+  },
+  {
+    "value": "OOM",
+    "synonyms": [
+      "Cooma,",
+      "NS, Australia ",
+      "OOM"
+    ]
+  },
+  {
+    "value": "ORD",
+    "synonyms": [
+      "Chicago,",
+      "IL - O\u0027Hare ",
+      "ORD"
+    ]
+  },
+  {
+    "value": "ORK",
+    "synonyms": [
+      "Cork,",
+      "Ireland ",
+      "ORK"
+    ]
+  },
+  {
+    "value": "OTD",
+    "synonyms": [
+      "Contadora,",
+      "OTD",
+      "Panama "
+    ]
+  },
+  {
+    "value": "OTP",
+    "synonyms": [
+      "Bucharest,",
+      "OTP",
+      "Romania - Otopeni International "
+    ]
+  },
+  {
+    "value": "OVD",
+    "synonyms": [
+      "Asturias,",
+      "OVD",
+      "Spain and Canary Islands "
+    ]
+  },
+  {
+    "value": "OXB",
+    "synonyms": [
+      "Bissau,",
+      "Guinea-Bissau ",
+      "OXB"
+    ]
+  },
+  {
+    "value": "PEK",
+    "synonyms": [
+      "Beijing,",
+      "China ",
+      "PEK"
+    ]
+  },
+  {
+    "value": "PIE",
+    "synonyms": [
+      "Clearwater/St",
+      "PIE",
+      "Petersburg, FL "
+    ]
+  },
+  {
+    "value": "PLU",
+    "synonyms": [
+      "Belo",
+      "Horizonte, Brazil - Pampulha ",
+      "PLU"
+    ]
+  },
+  {
+    "value": "PUS",
+    "synonyms": [
+      "Busan,",
+      "PUS",
+      "South Korea - Gimhae "
+    ]
+  },
+  {
+    "value": "QBC",
+    "synonyms": [
+      "Bella",
+      "Coola, BC ",
+      "QBC"
+    ]
+  },
+  {
+    "value": "QCE",
+    "synonyms": [
+      "Copper",
+      "Mountain, CO - Van service ",
+      "QCE"
+    ]
+  },
+  {
+    "value": "QKB",
+    "synonyms": [
+      "Breckenridge,",
+      "CO - Van service ",
+      "QKB"
+    ]
+  },
+  {
+    "value": "QKL",
+    "synonyms": [
+      "Cologne,",
+      "Germany - Rail service ",
+      "QKL"
+    ]
+  },
+  {
+    "value": "QWY",
+    "synonyms": [
+      "Albany,",
+      "OR - Bus service ",
+      "QWY"
+    ]
+  },
+  {
+    "value": "QXG",
+    "synonyms": [
+      "Angers,",
+      "France - Rail service ",
+      "QXG"
+    ]
+  },
+  {
+    "value": "QYW",
+    "synonyms": [
+      "Cannes,",
+      "France - Vieux Port ",
+      "QYW"
+    ]
+  },
+  {
+    "value": "RAE",
+    "synonyms": [
+      "Arar,",
+      "RAE",
+      "Saudi Arabia "
+    ]
+  },
+  {
+    "value": "RBH",
+    "synonyms": [
+      "Brooks",
+      "Lodge, AK ",
+      "RBH"
+    ]
+  },
+  {
+    "value": "RNN",
+    "synonyms": [
+      "Bornholm,",
+      "Denmark ",
+      "RNN"
+    ]
+  },
+  {
+    "value": "SFO",
+    "synonyms": [
+      "Frisco",
+      "San Fra",
+      "San Francisco",
+      "San Francisco California"
+    ]
+  },
+  {
+    "value": "SJC",
+    "synonyms": [
+      "San Jose CA",
+      "San Jose California"
+    ]
+  },
+  {
+    "value": "SJD",
+    "synonyms": [
+      "Cabo",
+      "SJD",
+      "San Lucas, Los Cabos"
+    ]
+  },
+  {
+    "value": "SJO",
+    "synonyms": [
+      "Costa Rica",
+      "Juan Santamaria",
+      "San Jose Costa Rica"
+    ]
+  },
+  {
+    "value": "SMR",
+    "synonyms": [
+      "Magdalena",
+      "Santa Marta"
+    ]
+  },
+  {
+    "value": "SXF",
+    "synonyms": [
+      "Berlin,",
+      "Germany - Schoenefeld ",
+      "SXF"
+    ]
+  },
+  {
+    "value": "TAE",
+    "synonyms": [
+      "Daegu,",
+      "South Korea ",
+      "TAE"
+    ]
+  },
+  {
+    "value": "THF",
+    "synonyms": [
+      "Berlin,",
+      "Germany - Tempelhof ",
+      "THF"
+    ]
+  },
+  {
+    "value": "TKG",
+    "synonyms": [
+      "Bandar",
+      "Lampung, Indonesia - Branti ",
+      "TKG"
+    ]
+  },
+  {
+    "value": "TNR",
+    "synonyms": [
+      "Antaninvarivo,",
+      "Madgascar ",
+      "TNR"
+    ]
+  },
+  {
+    "value": "TRI",
+    "synonyms": [
+      "Bristol,",
+      "TRI",
+      "VA "
+    ]
+  },
+  {
+    "value": "TSE",
+    "synonyms": [
+      "Astana,",
+      "Kazakhstan ",
+      "TSE"
+    ]
+  },
+  {
+    "value": "TXL",
+    "synonyms": [
+      "Berlin,",
+      "Germany - Tegel ",
+      "TXL"
+    ]
+  },
+  {
+    "value": "TZA",
+    "synonyms": [
+      "Belize",
+      "City, Belize - Municipal ",
+      "TZA"
+    ]
+  },
+  {
+    "value": "UUA",
+    "synonyms": [
+      "Bugulma,",
+      "Russia ",
+      "UUA"
+    ]
+  },
+  {
+    "value": "UUA",
+    "synonyms": [
+      "Bulgulma,",
+      "Russia ",
+      "UUA"
+    ]
+  },
+  {
+    "value": "VAK",
+    "synonyms": [
+      "AK ",
+      "Chevak,",
+      "VAK"
+    ]
+  },
+  {
+    "value": "VIL",
+    "synonyms": [
+      "Dakhla,",
+      "Morocco ",
+      "VIL"
+    ]
+  },
+  {
+    "value": "WAI",
+    "synonyms": [
+      "Antsohihy,",
+      "Madagascar ",
+      "WAI"
+    ]
+  },
+  {
+    "value": "WAM",
+    "synonyms": [
+      "Ambatondrazaka,",
+      "Madagascar ",
+      "WAM"
+    ]
+  },
+  {
+    "value": "WAQ",
+    "synonyms": [
+      "Antsalova,",
+      "Madagascar ",
+      "WAQ"
+    ]
+  },
+  {
+    "value": "WBQ",
+    "synonyms": [
+      "AK ",
+      "Beaver,",
+      "WBQ"
+    ]
+  },
+  {
+    "value": "WBU",
+    "synonyms": [
+      "Boulder,",
+      "CO - Municipal Airport ",
+      "WBU"
+    ]
+  },
+  {
+    "value": "WHH",
+    "synonyms": [
+      "Boulder,",
+      "CO - Hiltons Har H ",
+      "WHH"
+    ]
+  },
+  {
+    "value": "WKK",
+    "synonyms": [
+      "AK ",
+      "Aleknagik,",
+      "WKK"
+    ]
+  },
+  {
+    "value": "XAD",
+    "synonyms": [
+      "Churchill,",
+      "MB - Rail service ",
+      "XAD"
+    ]
+  },
+  {
+    "value": "XAP",
+    "synonyms": [
+      "Brazil ",
+      "Chapeco,",
+      "XAP"
+    ]
+  },
+  {
+    "value": "XAW",
+    "synonyms": [
+      "Capreol,",
+      "ON - Rail service ",
+      "XAW"
+    ]
+  },
+  {
+    "value": "XAZ",
+    "synonyms": [
+      "Campbellton,",
+      "NB - Rail service ",
+      "XAZ"
+    ]
+  },
+  {
+    "value": "XBE",
+    "synonyms": [
+      "Bearskin",
+      "Lake, ON ",
+      "XBE"
+    ]
+  },
+  {
+    "value": "XBR",
+    "synonyms": [
+      "Brockville,",
+      "ON ",
+      "XBR"
+    ]
+  },
+  {
+    "value": "XCH",
+    "synonyms": [
+      "Christmas",
+      "Island, Christmas Island ",
+      "XCH"
+    ]
+  },
+  {
+    "value": "XCI",
+    "synonyms": [
+      "Chambord,",
+      "QC - Rail service ",
+      "XCI"
+    ]
+  },
+  {
+    "value": "XCM",
+    "synonyms": [
+      "Chatham,",
+      "ON ",
+      "XCM"
+    ]
+  },
+  {
+    "value": "XDL",
+    "synonyms": [
+      "Chandler,",
+      "QC - Rail service ",
+      "XDL"
+    ]
+  },
+  {
+    "value": "XFS",
+    "synonyms": [
+      "- Rail service ",
+      "Alexandria,ON",
+      "XFS"
+    ]
+  },
+  {
+    "value": "XFV",
+    "synonyms": [
+      "Brantford,",
+      "ON - Rail service ",
+      "XFV"
+    ]
+  },
+  {
+    "value": "XGJ",
+    "synonyms": [
+      "Cobourg,",
+      "ON - Rail service ",
+      "XGJ"
+    ]
+  },
+  {
+    "value": "XGK",
+    "synonyms": [
+      "Coteau,",
+      "QC - Rail service ",
+      "XGK"
+    ]
+  },
+  {
+    "value": "XHH",
+    "synonyms": [
+      "Boulder,",
+      "CO - Bus service ",
+      "XHH"
+    ]
+  },
+  {
+    "value": "XHS",
+    "synonyms": [
+      "BC - Rail service ",
+      "Chemainus,",
+      "XHS"
+    ]
+  },
+  {
+    "value": "XLY",
+    "synonyms": [
+      "Aldershot,",
+      "ON - Rail service ",
+      "XLY"
+    ]
+  },
+  {
+    "value": "XPN",
+    "synonyms": [
+      "Brampton,",
+      "ON - Rail service ",
+      "XPN"
+    ]
+  },
+  {
+    "value": "XVV",
+    "synonyms": [
+      "Belleville,",
+      "ON - Rail service ",
+      "XVV"
+    ]
+  },
+  {
+    "value": "XZB",
+    "synonyms": [
+      "Casselman,",
+      "ON - Rail service ",
+      "XZB"
+    ]
+  },
+  {
+    "value": "YAA",
+    "synonyms": [
+      "Anahim",
+      "Lake, BC ",
+      "YAA"
+    ]
+  },
+  {
+    "value": "YAB",
+    "synonyms": [
+      "Arctic",
+      "Bay, NU ",
+      "YAB"
+    ]
+  },
+  {
+    "value": "YAC",
+    "synonyms": [
+      "Cat",
+      "Lake, ON ",
+      "YAC"
+    ]
+  },
+  {
+    "value": "YAI",
+    "synonyms": [
+      "Chile ",
+      "Chillan,",
+      "YAI"
+    ]
+  },
+  {
+    "value": "YAT",
+    "synonyms": [
+      "Attawapiskat,",
+      "ON ",
+      "YAT"
+    ]
+  },
+  {
+    "value": "YAX",
+    "synonyms": [
+      "Angling",
+      "Lake, ON ",
+      "YAX"
+    ]
+  },
+  {
+    "value": "YBC",
+    "synonyms": [
+      "Baie",
+      "Comeau, QC ",
+      "YBC"
+    ]
+  },
+  {
+    "value": "YBG",
+    "synonyms": [
+      "Bagotville,",
+      "QC ",
+      "YBG"
+    ]
+  },
+  {
+    "value": "YBI",
+    "synonyms": [
+      "Black",
+      "Tickle, NL ",
+      "YBI"
+    ]
+  },
+  {
+    "value": "YBK",
+    "synonyms": [
+      "Baker",
+      "Lake, NU ",
+      "YBK"
+    ]
+  },
+  {
+    "value": "YBL",
+    "synonyms": [
+      "Campbell",
+      "River, BC ",
+      "YBL"
+    ]
+  },
+  {
+    "value": "YBR",
+    "synonyms": [
+      "Brandon,",
+      "MB ",
+      "YBR"
+    ]
+  },
+  {
+    "value": "YBT",
+    "synonyms": [
+      "Brochet,",
+      "MB ",
+      "YBT"
+    ]
+  },
+  {
+    "value": "YBV",
+    "synonyms": [
+      "Berens",
+      "River, MB ",
+      "YBV"
+    ]
+  },
+  {
+    "value": "YBX",
+    "synonyms": [
+      "Blanc",
+      "Sablon, QC ",
+      "YBX"
+    ]
+  },
+  {
+    "value": "YCA",
+    "synonyms": [
+      "BC ",
+      "Courtenay,",
+      "YCA"
+    ]
+  },
+  {
+    "value": "YCB",
+    "synonyms": [
+      "Bay, NU ",
+      "Cambridge",
+      "YCB"
+    ]
+  },
+  {
+    "value": "YCC",
+    "synonyms": [
+      "Cornwall,",
+      "ON ",
+      "YCC"
+    ]
+  },
+  {
+    "value": "YCG",
+    "synonyms": [
+      "BC ",
+      "Castlegar,",
+      "YCG"
+    ]
+  },
+  {
+    "value": "YCK",
+    "synonyms": [
+      "Colville",
+      "Lake, NT ",
+      "YCK"
+    ]
+  },
+  {
+    "value": "YCR",
+    "synonyms": [
+      "Cross",
+      "Lake, MB ",
+      "YCR"
+    ]
+  },
+  {
+    "value": "YCS",
+    "synonyms": [
+      "Chesterfield",
+      "Inlet, NU ",
+      "YCS"
+    ]
+  },
+  {
+    "value": "YCY",
+    "synonyms": [
+      "Clyde",
+      "River, NU ",
+      "YCY"
+    ]
+  },
+  {
+    "value": "YEK",
+    "synonyms": [
+      "Arviat,",
+      "NU ",
+      "YEK"
+    ]
+  },
+  {
+    "value": "YHG",
+    "synonyms": [
+      "Charlottetown,",
+      "NL ",
+      "YHG"
+    ]
+  },
+  {
+    "value": "YHR",
+    "synonyms": [
+      "Chevery,",
+      "QC ",
+      "YHR"
+    ]
+  },
+  {
+    "value": "YKU",
+    "synonyms": [
+      "Chisasibi,",
+      "QC ",
+      "YKU"
+    ]
+  },
+  {
+    "value": "YLD",
+    "synonyms": [
+      "Chapleau,",
+      "ON ",
+      "YLD"
+    ]
+  },
+  {
+    "value": "YMT",
+    "synonyms": [
+      "Chibougamau,",
+      "QC ",
+      "YMT"
+    ]
+  },
+  {
+    "value": "YPJ",
+    "synonyms": [
+      "Aupaluk,",
+      "QC ",
+      "YPJ"
+    ]
+  },
+  {
+    "value": "YPZ",
+    "synonyms": [
+      "Burns",
+      "Lake, BC ",
+      "YPZ"
+    ]
+  },
+  {
+    "value": "YQQ",
+    "synonyms": [
+      "BC ",
+      "Comox,",
+      "YQQ"
+    ]
+  },
+  {
+    "value": "YRF",
+    "synonyms": [
+      "Cartwright,",
+      "NL ",
+      "YRF"
+    ]
+  },
+  {
+    "value": "YTE",
+    "synonyms": [
+      "Cape",
+      "Dorset, NU ",
+      "YTE"
+    ]
+  },
+  {
+    "value": "YTF",
+    "synonyms": [
+      "Alma,",
+      "QC ",
+      "YTF"
+    ]
+  },
+  {
+    "value": "YTL",
+    "synonyms": [
+      "Big",
+      "Trout, ON ",
+      "YTL"
+    ]
+  },
+  {
+    "value": "YVB",
+    "synonyms": [
+      "Bonaventure,",
+      "QC ",
+      "YVB"
+    ]
+  },
+  {
+    "value": "YXC",
+    "synonyms": [
+      "BC ",
+      "Cranbrook,",
+      "YXC"
+    ]
+  },
+  {
+    "value": "YXX",
+    "synonyms": [
+      "Abbotsford,",
+      "BC ",
+      "YXX"
+    ]
+  },
+  {
+    "value": "YYC",
+    "synonyms": [
+      "AB ",
+      "Calgary,",
+      "YYC"
+    ]
+  },
+  {
+    "value": "YYG",
+    "synonyms": [
+      "Charlottetown,",
+      "PE ",
+      "YYG"
+    ]
+  },
+  {
+    "value": "YYQ",
+    "synonyms": [
+      "Churchill,",
+      "MB ",
+      "YYQ"
+    ]
+  },
+  {
+    "value": "YZS",
+    "synonyms": [
+      "Coral",
+      "Harbour, NU ",
+      "YZS"
+    ]
+  },
+  {
+    "value": "ZAY",
+    "synonyms": [
+      "Antwerp,",
+      "Belgium - Bus service ",
+      "ZAY"
+    ]
+  },
+  {
+    "value": "ZBF",
+    "synonyms": [
+      "Bathhurst,",
+      "NB ",
+      "ZBF"
+    ]
+  },
+  {
+    "value": "ZBR",
+    "synonyms": [
+      "Chah-Bahar,",
+      "Iran ",
+      "ZBR"
+    ]
+  },
+  {
+    "value": "ZBV",
+    "synonyms": [
+      "Beaver",
+      "Creek, CO - Van service ",
+      "ZBV"
+    ]
+  },
+  {
+    "value": "ZDH",
+    "synonyms": [
+      "Basel/Mulhouse",
+      "Railway Station, Switzerland ",
+      "ZDH"
+    ]
+  },
+  {
+    "value": "ZDJ",
+    "synonyms": [
+      "Berne,",
+      "Switzerland - Rail service ",
+      "ZDJ"
+    ]
+  },
+  {
+    "value": "ZDN",
+    "synonyms": [
+      "Brno,",
+      "Czech Republic - Bus service ",
+      "ZDN"
+    ]
+  },
+  {
+    "value": "ZEL",
+    "synonyms": [
+      "Bella",
+      "Bella, BC ",
+      "ZEL"
+    ]
+  },
+  {
+    "value": "ZID",
+    "synonyms": [
+      "Aarhus,",
+      "Denmark - Bus service ",
+      "ZID"
+    ]
+  },
+  {
+    "value": "ZUM",
+    "synonyms": [
+      "Churchill",
+      "Falls, NL ",
+      "ZUM"
+    ]
+  },
+  {
+    "value": "ZYR",
+    "synonyms": [
+      "Belgium - Rail service ",
+      "Brussels,",
+      "ZYR"
+    ]
+  }
+]

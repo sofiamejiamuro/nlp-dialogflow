@@ -1,0 +1,17 @@
+[
+  {
+    "value": "Acepto",
+    "synonyms": [
+      "Acepto",
+      "Confirmo"
+    ]
+  },
+  {
+    "value": "Rechazo",
+    "synonyms": [
+      "Negativo",
+      "No es",
+      "Rechazo"
+    ]
+  }
+]

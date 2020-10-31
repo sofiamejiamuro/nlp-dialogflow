@@ -40,14 +40,22 @@ Hay dos versiones, Dialogflow CX aún está en versión beta
 Es una herramienta quee permite que las aplicaciones entiendan lenguage natural, clasifica intenciones y extrae entidades (palabras o frases claves)
 
 
-Intents
+Intents --> frases de entrenamiento 
 
-Entities
+Entities --> palabras , frases claves
 
 Fulfillment
 
 
 ## STEPS 
 
-Importamos el archivo TEDCloudAirlines(1).zip para hacer nuestro asistente multilingüe
+Importamos el archivo TEDCloudAirlines, subido en ZIP,  para hacer nuestro asistente multilingüe
 
+
+## Lingüística computacional
+
+- Clasificación de texto para que según la palabra se haga una acción 
+- Árboles de decisión
+
+
+## Reconocimiento de voz

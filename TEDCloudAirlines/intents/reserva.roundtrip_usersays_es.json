@@ -1,0 +1,163 @@
+[
+  {
+    "id": "2bdfd66e-fa2d-4ed6-b57a-a3811397baf5",
+    "data": [
+      {
+        "text": "confirmo",
+        "alias": "confirmacion",
+        "meta": "@confirmacion",
+        "userDefined": false
+      },
+      {
+        "text": " viaje de ",
+        "userDefined": false
+      },
+      {
+        "text": "ida y vuelta",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3504d56b-9571-4e50-9b4b-4d696913b13d",
+    "data": [
+      {
+        "text": "enviar mi vuelo al correo ",
+        "userDefined": false
+      },
+      {
+        "text": "leo@gmail.com",
+        "alias": "email",
+        "meta": "@sys.email",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8622ae05-c899-4b22-a8e4-3ec6b17db143",
+    "data": [
+      {
+        "text": "comprar vuelo con pasaporte ",
+        "userDefined": false
+      },
+      {
+        "text": "costarricense",
+        "alias": "paispassport",
+        "meta": "@sys.geo-country",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "304530960",
+        "alias": "idpassport",
+        "meta": "@sys.number",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3a06e7be-371c-4469-b3a6-6c1f7d16a2b6",
+    "data": [
+      {
+        "text": "adquirir vuelo a nombre de ",
+        "userDefined": false
+      },
+      {
+        "text": "Leo Camacho",
+        "alias": "name",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3c4efee4-65ef-401c-b1f7-827f0af28215",
+    "data": [
+      {
+        "text": "reservar vuelo ",
+        "userDefined": false
+      },
+      {
+        "text": "cdmx",
+        "alias": "origin",
+        "meta": "@iata",
+        "userDefined": true
+      },
+      {
+        "text": " a ",
+        "userDefined": false
+      },
+      {
+        "text": "bogotá",
+        "alias": "destination",
+        "meta": "@iata",
+        "userDefined": true
+      },
+      {
+        "text": " para ",
+        "userDefined": false
+      },
+      {
+        "text": "mañana",
+        "alias": "fecha1",
+        "meta": "@sys.date",
+        "userDefined": true
+      },
+      {
+        "text": " y regresar el ",
+        "userDefined": false
+      },
+      {
+        "text": "31/09/2019",
+        "alias": "fecha2",
+        "meta": "@sys.date",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "960797f2-7d29-49cb-a1d2-ed6026257086",
+    "data": [
+      {
+        "text": "roundtrip",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "19dbf0a2-6609-4b6f-ae85-f30d0e45d6aa",
+    "data": [
+      {
+        "text": "ida y vuelta",
+        "alias": "tipovuelo",
+        "meta": "@tipovuelo",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "id": "b517ca0b-164d-4677-90e9-6633ff4e5d17",
+    "data": [
+      {
+        "text": "agregar ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " vuelo a ",
+        "userDefined": false
+      },
+      {
+        "text": "mi",
+        "alias": "origin",
+        "meta": "@iata",
+        "userDefined": false
+      },
+      {
+        "text": " pasaporte ",
+        "userDefined": false
+      },
+      {
+        "text": "309760218",
+        "alias": "idpassport",
+        "meta": "@sys.number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e20ce113-f567-45a6-9026-bb2f9348fd5f",
+    "data": [
+      {
+        "text": "quiero que me reserve un vuelo y los envíe al correo ",
+        "userDefined": false
+      },
+      {
+        "text": "leandro@gmail.com",
+        "alias": "email",
+        "meta": "@sys.email",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "61d99f3c-bc8d-4116-bcce-5a8dd2552155",
+    "data": [
+      {
+        "text": "adquirir vuelo a ",
+        "userDefined": false
+      },
+      {
+        "text": "SFO",
+        "alias": "paispassport",
+        "meta": "@sys.geo-country",
+        "userDefined": true
+      },
+      {
+        "text": " a nombre de ",
+        "userDefined": false
+      },
+      {
+        "text": "Leandro Camacho",
+        "alias": "name",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "confirmar",
+        "alias": "confirmacion",
+        "meta": "@confirmacion",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1d811323-189b-42fd-8f16-af4a31152ebe",
+    "data": [
+      {
+        "text": "reservar vuelo de ",
+        "userDefined": false
+      },
+      {
+        "text": "cdmx",
+        "alias": "origin",
+        "meta": "@iata",
+        "userDefined": false
+      },
+      {
+        "text": " a ",
+        "userDefined": false
+      },
+      {
+        "text": "bogotá",
+        "alias": "destination",
+        "meta": "@iata",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "para mañana",
+        "alias": "fecha1",
+        "meta": "@sys.date",
+        "userDefined": false
+      },
+      {
+        "text": " y regresar ",
+        "userDefined": false
+      },
+      {
+        "text": "el 30/07/2019",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bb17800d-fe03-4a40-a06a-af83b3f095be",
+    "data": [
+      {
+        "text": "one way",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0d85377f-8dda-429e-8eeb-edfd8d488973",
+    "data": [
+      {
+        "text": "Ida",
+        "alias": "tipovuelo",
+        "meta": "@tipovuelo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a509a5fe-78c9-426e-b14a-30293219f43d",
+    "data": [
+      {
+        "text": "solo ida",
+        "alias": "tipovuelo",
+        "meta": "@tipovuelo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

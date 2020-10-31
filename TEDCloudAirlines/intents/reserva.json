@@ -1,0 +1,36 @@
+{
+  "id": "3f7ee109-063c-4582-83ea-e47d05943a05",
+  "name": "reserva",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "reserva-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": [
+            "🤖 Qué tipo de vuelo desea reservar: \"Solo ida\", \"Ida y vuelta\"? ✈️",
+            "🤖Qué tipo de vuelo desea reservar: \"Solo ida\", \"Ida y vuelta\" o \"Multidestino\" ? ✈️"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

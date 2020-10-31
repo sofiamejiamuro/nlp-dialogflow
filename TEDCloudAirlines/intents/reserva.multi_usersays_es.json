@@ -1,0 +1,28 @@
+[
+  {
+    "id": "60b753c6-8c03-444b-aca5-a9e0a64ff907",
+    "data": [
+      {
+        "text": "multidestination",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "da125720-8db1-41a4-b310-81a04abead41",
+    "data": [
+      {
+        "text": "multidestino",
+        "alias": "tipovuelo",
+        "meta": "@tipovuelo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

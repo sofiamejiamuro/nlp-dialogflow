@@ -1,0 +1,9 @@
+{
+  "id": "a8872286-398f-4cad-996e-a72bcdfdb7b5",
+  "name": "tipovuelo",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

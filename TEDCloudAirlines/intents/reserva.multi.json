@@ -1,0 +1,45 @@
+{
+  "id": "6eba5e6c-6495-4d76-a9b3-a0623fcc1a99",
+  "parentId": "3f7ee109-063c-4582-83ea-e47d05943a05",
+  "rootParentId": "3f7ee109-063c-4582-83ea-e47d05943a05",
+  "name": "reserva.multi",
+  "auto": true,
+  "contexts": [
+    "reserva-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "reserva.reserva-custom",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "d3450267-b2c4-499e-b9b5-794dbc9d34d8",
+          "required": false,
+          "dataType": "@tipovuelo",
+          "name": "tipovuelo",
+          "value": "$tipovuelo",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": "😃 Ahora que ya puedes realizar reservar solo de ida y roundtrip, te invito a que configures una reserva de vuelos multidestino ✈️"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}
