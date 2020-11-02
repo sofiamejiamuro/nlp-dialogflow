@@ -93,3 +93,118 @@ El modelo de Procesamiento de Lenguaje Natural (NLP por sus siglas en inglés) d
   -  Phone Gateway (Beta): La función de puerta de enlace de telefonía proporciona una interfaz telefónica a tu agente. Para obtener una guía detallada, consulta pasos de acceso a la telefonía.
 
 Otras: Telegram, Kik, Line, Cisco Spark.
+
+## Respuestas dinámicas
+
+**INLINE EDITOR**
+
+Crear respuestas a través del fulfillment y no de respuestas predeterminadas, capturar parametros, enviar datos, sotrages them,  etc
+
+On dialogflow enablee webhook for fulfilment, cuando todos los datos se guardaron
+
+
+⚡ Fulfillment 
+
+Esta sección nos da la posibilidad de habilitar el inline editor, donde podremos utilizar las Cloud Functions para Firebase
+
+Crear una función para el intent que queramos
+1. Inicializar la función
+
+```js
+intentMap.set('reserva.roundtrip', reserva);
+```
+
+2. Hacer la función 
+```
+function reserva(agente){
+  	const name = agent.parameters.name;
+    const email = agent.parameters.email;
+    const idpassport = agent.parameters.idpassport;
+    const paispassport = agent.parameters.paispassport;
+    const origin = agent.parameters.origin;
+    const fecha1 = agent.parameters.fecha1;
+    const destination = agent.parameters.destination;
+    const fecha2 = agent.parameters.fecha2;
+  
+    agent.add('Excelente la reserva fue creada con éxito');
+
+  }
+```
+
+
+index.js
+
+```js
+// See https://github.com/dialogflow/dialogflow-fulfillment-nodejs
+// for Dialogflow fulfillment library docs, samples, and to report issues
+'use strict';
+ 
+const functions = require('firebase-functions');
+const {WebhookClient} = require('dialogflow-fulfillment');
+const {Card, Suggestion} = require('dialogflow-fulfillment');
+ 
+process.env.DEBUG = 'dialogflow:debug'; // enables lib debugging statements
+ 
+exports.dialogflowFirebaseFulfillment = functions.https.onRequest((request, response) => {
+  const agent = new WebhookClient({ request, response });
+  console.log('Dialogflow Request headers: ' + JSON.stringify(request.headers));
+  console.log('Dialogflow Request body: ' + JSON.stringify(request.body));
+ 
+  function welcome(agent) {
+    agent.add(`Welcome to my agent!`);
+  }
+ 
+  function fallback(agent) {
+    agent.add(`I didn't understand`);
+    agent.add(`I'm sorry, can you try again?`);
+  }
+
+  // // Uncomment and edit to make your own intent handler
+  // // uncomment `intentMap.set('your intent name here', yourFunctionHandler);`
+  // // below to get this function to be run when a Dialogflow intent is matched
+  // function yourFunctionHandler(agent) {
+  //   agent.add(`This message is from Dialogflow's Cloud Functions for Firebase editor!`);
+  //   agent.add(new Card({
+  //       title: `Title: this is a card title`,
+  //       imageUrl: 'https://developers.google.com/actions/images/badges/XPM_BADGING_GoogleAssistant_VER.png',
+  //       text: `This is the body text of a card.  You can even use line\n  breaks and emoji! 💁`,
+  //       buttonText: 'This is a button',
+  //       buttonUrl: 'https://assistant.google.com/'
+  //     })
+  //   );
+  //   agent.add(new Suggestion(`Quick Reply`));
+  //   agent.add(new Suggestion(`Suggestion`));
+  //   agent.setContext({ name: 'weather', lifespan: 2, parameters: { city: 'Rome' }});
+  // }
+
+  // // Uncomment and edit to make your own Google Assistant intent handler
+  // // uncomment `intentMap.set('your intent name here', googleAssistantHandler);`
+  // // below to get this function to be run when a Dialogflow intent is matched
+  // function googleAssistantHandler(agent) {
+  //   let conv = agent.conv(); // Get Actions on Google library conv instance
+  //   conv.ask('Hello from the Actions on Google client library!') // Use Actions on Google library
+  //   agent.add(conv); // Add Actions on Google library responses to your agent's response
+  // }
+  // // See https://github.com/dialogflow/fulfillment-actions-library-nodejs
+  // // for a complete Dialogflow fulfillment library Actions on Google client library v2 integration sample
+
+  // Run the proper function handler based on the matched Dialogflow intent name
+  let intentMap = new Map();
+  intentMap.set('Default Welcome Intent', welcome);
+  intentMap.set('Default Fallback Intent', fallback);
+
+
+  // Initializing the funtion for roundtrip intent
+  intentMap.set('reserva.roundtrip', reserva);
+
+
+  // intentMap.set('your intent name here', yourFunctionHandler);
+  // intentMap.set('your intent name here', googleAssistantHandler);
+  agent.handleRequest(intentMap);
+});
+
+```
+
+
+## Modelos de sugerencias
+
