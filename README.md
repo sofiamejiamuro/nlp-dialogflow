@@ -247,3 +247,26 @@ function welcome(agent) {
   agent.add(new Suggestion(`Códigos aeropuertos`));
 }
 ```
+
+
+## Diálogos continuos integrando parámetros recolectados
+
+Confirmar todos los parámetros
+
+Crear entidad 'confirmación' / acepto - rechazo
+Agregamos la intención 
+Integramos las variables en el fulfillment
+
+```js
+agent.add('Excelente,' + name + '. la reserva fue creada con éxito');
+```
+
+## Crae base de datos en tiempo real
+
+Firebase
+
+1. Crear un proyecto
+
+2. Diferentes opciones de integración 
+
+![tech integration](./assets/integrations.png)
