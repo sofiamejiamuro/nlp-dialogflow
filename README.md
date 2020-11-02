@@ -208,3 +208,42 @@ exports.dialogflowFirebaseFulfillment = functions.https.onRequest((request, resp
 
 ## Modelos de sugerencias
 
+Inicializamos la función
+```js
+intentMap.set('reserva', tiporeserva);
+
+```
+
+Agregamos las sugerencias
+```js
+function tiporeserva(agent){
+  agent.add('Qué tipo de vuelo desea reservar?');
+  agent.add(new Suggestion ('Sólo ida'));
+  agent.add(new Suggestion ('Ida y Vuelta'));
+  agent.add(new Suggestion ('Multidestino'));
+}
+```
+
+## URL
+
+```js 
+const videowelcome = 'https://www.youtube.com/watch?v=U9hq83ryFj0';
+const welcome2 = 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCI7tShlyVeubGtVbh6XTCPNfZVlXFFYOEO55zskrSjLzwEKUQ';
+```
+
+```js
+function welcome(agent) {
+  agent.add(`Bienvenid@ te saluda Ted 🤖, la asistente virtual de Cloud Airliness`);
+  agent.add(new Card({
+      title: `NLP Demo `,
+      imageUrl: welcome2,
+      text: `Automatización de reservación de vuelos en una base datos en tiempo real en la nube.`,
+      buttonText: 'Ver Video', 
+      buttonUrl: videowelcome
+    })
+  );
+  agent.add(`Recuerda que fui entrenada:`);
+  agent.add(new Suggestion(`Reservar vuelos`));   
+  agent.add(new Suggestion(`Códigos aeropuertos`));
+}
+```
