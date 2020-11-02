@@ -270,3 +270,56 @@ Firebase
 2. Diferentes opciones de integración 
 
 ![tech integration](./assets/integrations.png)
+
+3. Elegir integreación
+
+4. Integrarlo en eel fulfillment
+
+```js
+const admin = require('firebase-admin');
+var firebaseConfig = {
+    apiKey: "ijeriqe",
+    authDomain: "chsdohf.firebaseapp.com",
+    databaseURL: "https://kjdbsfjowe.firebaseio.com",
+    projectId: "cloudairlines",
+    storageBucket: "",
+    messagingSenderId: "kdsmfiwñr",
+    appId: "dfñorwdsdfdsfd"
+ };
+
+admin.initializeApp(functions.config().firebase);
+const db = admin.firestore();
+```
+
+5. Crear base de datos en FireStore
+
+6. Hacer las funciones que van a mandar datos a firebase
+
+```js
+ function reserva2(agent){
+  	const name = agent.parameters.name;
+    const email = agent.parameters.email;
+    const idpassport = agent.parameters.idpassport;
+    const origin = agent.parameters.origin;
+    const fecha1 = agent.parameters.fecha1;
+    const destination = agent.parameters.destination;
+      
+    // Mandamos a firebase
+    const dialogflowAgentRef = db.collection('reservavuelos_oneway').doc();
+    return db.runTransaction(t => {
+      t.set(dialogflowAgentRef, { Destino: destination, Fecha1: fecha1, Origen:origin, Email: email, Nombre: name});
+      return Promise.resolve('Write complete');
+    }).then(doc => {
+      agent.add(`Excellent "${name}" your flight was booked successfully. `);
+    }).catch(err => {
+      console.log(`Error writing to Firestore: ${err}`);
+      agent.add(`Failed to write data to the Firestore database.`);
+    });
+  } 
+
+```
+
+7. Hacer las diferentes colleciones según necesitemos
+
+
+## Chatbot Multilingüe 
