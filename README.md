@@ -1,4 +1,4 @@
-## Curso de Procesamiento de Lenguaje Natural - Platzi
+## Curso de Procesamiento de Lenguaje Natural - Platzi [aquí](https://platzi.com/clases/procesamiento/) by [Leeo Camacho](https://www.linkedin.com/in/intuiciondigital/)
 
 ![computing evolution](./assets/computing-evolution.png)
 
